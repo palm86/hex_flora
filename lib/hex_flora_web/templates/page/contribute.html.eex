@@ -1,0 +1,63 @@
+<section class="row">
+  <article class="column">
+    <h1 class="display-4">How to contribute</h2>
+    <p class="lead">Contributions of any kind are welcome. Beginners and experts alike can help.</p>
+
+    <p>HexFlora is an open-source project that lives on GitHub. You can contribute in several ways,
+    depending on your area of expertise</p>
+
+    <h2>Contribute to HexFlora on iNaturalist</h2>
+
+    <p>Download the iNaturalist app on your phone and join the HexFlora project. Make observations of plants
+    in the Hex River Valley. Be sure to set the location (you can still keep it private). Suggest
+    identities of the observations you or others have made. Optionally create an issue on GitHub (see below)
+    with a link to your observation, requesting inclusion on HexFlora.</p>
+
+    <h2>Logging an issue on GitHub</h2>
+
+    <p>If you have any information that you think can be useful to the HexFlora project, or a photograph of a detail of any species
+    that is not yet covered by other photographs, or if you have spotted any mistakes from typos to inaccuraries, then please
+    log an issue on GitHub:</p>
+
+    <ol>
+      <li>Visit <a href="https://github.com/palm86/hex_flora">https://github.com/palm86/hex_flora</a></li>
+      <li>Select the "Issues" tab</li>
+      <li>Click on "New issue"</li>
+      <li>Enter a descriptive title and comment</li>
+      <li>Add supporting information</li>
+      <ul>
+        <li>Add attachments by clicking on "Attach files by dragging & dropping, selecting or pasting them."</li>
+        <li>Add links to external documents or observations on platforms such as iNaturalist.</li>
+        <li>Only add photographs or works to which you own the copyright. Please state the licence under which you share your work.</li>
+      </ul>
+    </ol>
+
+    <p>Specific information that we are looking for include:</p>
+
+    <ul>
+      <li>binomial/scientific/species names and their origins</li>
+      <li>photos of leaves, flowers, fruits, seeds, seedlings, pests, parasites, pollinators, or any definitive plant parts</li>
+      <li>local common/vernacular names and their origins</li>
+      <li>local locations at which the plants can be observed</li>
+      <li>descriptions of defining features by which to identify the species</li>
+      <li>vegetation types in which the species thrives</li>
+      <li>seasonality - when is the specimen in flower or in fruit</li>
+    </ul>
+
+    <p>Issues don't have to relate to only content. Please feel free to contribute to the design of this project
+    and help to improve the underlying technical software aspects.</p>
+
+    <h2>Discussing existing issues on GitHub</h2>
+
+    <p>You can view existing issues on GitHub and provide any information that could lead to their resolution. Depending
+    on the issue, you could provide local vernacular names, uses, locations, photographs, species names, etc. An issue could also point
+    to an external source, such as an iNaturalist observation of an unidentified species. In such cases you could help to resolve
+    the ticket by suggesting an identification on the external platform and by commenting on the issue to that effect.</p>
+
+    <h2>Creating a pull request on GitHub (technical)</h2>
+
+    <p>If enough information is available to resolve an issue, please fork the
+    <code>palm86/hex_flora</code> repository on GitHub and create a pull request that incorporates the
+    necessary changes. Please see the project <a href="https://github.com/palm86/hex_flora/blob/master/README.md">README</a>
+    file for detailed information on how to contribute.</p>
+</section>

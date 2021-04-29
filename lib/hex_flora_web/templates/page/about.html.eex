@@ -1,0 +1,83 @@
+<section class="row">
+  <article class="column">
+    <h1 class="display-4">About HexFlora</h2>
+    <p class="lead">Hexflora is a collaborative open-source online herbarium dedicated to
+    the indigenous flora of the Hex River Valley and Mountains.</p>
+
+    <p>No less than nine vegetation types flow into one another in the valley
+    floor, kloofs, cliffs and koppies of the Hex River Valley. Most prominent
+    among these are the South Hex Sandstone Fynbos, adorning the rain shadow
+    slopes of the Matroosberg, the North Langeberg Sandstone Fynbos of the
+    Kwadousberg, the Robertson Karoo vegetation around the town of De Doorns and
+    the Osplaas Train Station, and the Breede Alluvial Fynbos in the valley
+    floor, now largely replaced by vineyards.</p>
+
+    <p>The specimens in this online herbarium are collected by collaborators
+    with the aim of creating awareness of the biodiversity and natural beauty
+    of the valley's flora, easily overshadowed by the autumn colours of
+    <span class="font-italic">Vitis vinifera</span>, the common grape vine.
+    But we also wish to emphasize the threat of invasive plant species and
+    climate change to the continued existence of this precious and unique floral
+    region.</p>
+
+    <h2>Collect and identify</h2>
+
+    <p>Our mission is to collect and identify as many floral species that grow in
+    the Hex River Valley as possible. By "collect" we mean taking quality photographs
+    of the specimens, capturing the details that would aid in identifying the species
+    in question. We also provide a brief description of the specimen, the locations
+    and vegetation types at which one is likely to find it in the Hex River Valley,
+    and, where available, local vernacular names and uses.</p>
+
+    <h2>Anyone can contribute</h2>
+
+    <p>This is a massive undertaking and any help is appreciated. Here are some of the
+    ways in which you can help:</p>
+
+    <ul>
+      <li>provide quality photographs, taken in the valley, of a local species</li>
+      <li>provide information, vernacular names or corrections about a locally occuring species</li>
+      <li>provide botanical and geographic information or corrections to any such information about the Hex River Valley</li>
+      <li>improve the design of this website</li>
+      <li>make a logo for this website</li>
+    </ul>
+
+    <p> You can help by logging an issue on <a href="https://github.com/palm86/hex_flora">GitHub</a>, where the code and all data for this
+    website lives. If you are more technically inclined, make a pull request on GitHub
+    with your suggested changes. Please find detailed instructions <a href="<%= Routes.page_path(@conn, :contribute) %>">here</a>.</p>
+
+    <p>You can also help indirectly by following the HexFlora project on iNaturalist. Any observations made on
+    iNaturalist will be taken up in the HexFlora iNaturalist collection for all the world to help identify.</p>
+
+    <h2>Copyright and license</h2>
+
+    <p>The HexFlora software is <a href="https://github.com/palm86/hex_flora/blob/master/LICENSE.md">licensed</a> under the permissive
+    MIT License. Unless stated otherwise, the content (articles, herbarium specimens, photographs) is licensed under the
+    Creative Commons Attribution 3.0 South Africa License.</p>
+
+    <h2>About the maker of HexFlora</h2>
+
+    <p>I am a biochemist by training, a software engineer by profession, and a botanist by heart.</p>
+
+    <p>I grew up on the farm Goede Hoop in the Hex River Valley. My childhood hangout was a rock garden filled
+    with <i class="text-italic">Crassula ovata</i>, which we called botterbome, and <i class="text-italic">Portulacaria afra</i>,
+    the well known spekboom. There my love for growing things and concocting things began. At any given time
+    I was in possession of a sizeable collection of bottles containing suspended plant materials in various
+    stages of fermentation. A natural next step was to get a medicinal herb garden. Although, I never
+    really prepared any herbal remedies and was much more intrigued by the familial relationships between the plants
+    in my garden. At this stage I developed a keen sense of taxonomy and systematics. And then my herb garden died,
+    high school happened, and I went to study biochemistry (with the odd botany class) and ultimately got a PhD in
+    computational systems biology. I actually got a job in that field, but soon switched to software engineering, following
+    another childhood passion.</p>
+
+    <p>And then the Fynbos bug bit me. Partly because of the incessant drought we had between
+    2015 and 2018, partly because of a visit to the Rare Plant Fair at Tokara, and partly because the Paarl Nursery
+    had a close-down sale (and then never closed). My wife and I filled our entire garden with indigenous Fynbos.
+    And we lived waterwise ever after. But on visits to the family farm I found myself increasingly with my eyes on
+    the ground, taking pictures of anything with leaves, trying to identify them, and realizing that very few people know the
+    plants of the Hex. As a consequence of the Covid-19 pandemic, I now have the good fortune of being back
+    in the Hex River Valley permanently. And I want to share the beauty of it with everyone.</p>
+
+    <p><i class="text-italic">Danie Palm, April 2021</i></p>
+  </article>
+</section>

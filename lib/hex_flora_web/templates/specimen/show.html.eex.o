@@ -1,0 +1,24 @@
+<%= link "← All specimens", to: Routes.specimen_path(@conn, :index)%>
+
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="<%= Routes.static_url(@conn, "/images/" <> @specimen.id <> ".jpg") %>" alt="<%= @specimen.name %>" class="float-start img-thumbnail">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h1 class="card-title display-4"><%= if @specimen.rank in [:species, :genus] do %>
+        <i><%= @specimen.name %></i>
+        <% else %>
+        <%= @specimen.name %>
+        <% end %>
+        </h1>
+        <h2>
+        <small class="card-text"><small class="text-muted"><%= Enum.join(@specimen.common_names, ", ") %></small>
+        </h2>
+        <p class="card-text lead"><%= raw @specimen.description %></p>
+        <p class="card-text"><%= raw @specimen.body %></p>
+      </div>
+    </div>
+  </div>
+</div>

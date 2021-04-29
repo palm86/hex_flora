@@ -1,0 +1,5 @@
+Hexflora is a collaborative open-source online herbarium dedicated to the indigenous flora of the Hex River Valley and Mountains.
+
+No less than nine vegetation types flow into one another in the valley floor, kloofs, cliffs and koppies of the Hex River Valley. Most prominent among these are the South Hex Sandstone Fynbos, adorning the rain shadow slopes of the Matroosberg, the North Langeberg Sandstone Fynbos of the Kwadoberg, the Robertson Karoo vegetation around the town of De Doorns and the Osplaas Train Station, and the Breede Alluvial Fynbos in the valley floor, now largely replaced by vineyards.
+
+The specimens in this online herbarium were collected by collaborators with the aim of creating awareness of the biodiversity and natural beauty of the valley's flora, easily overshadowed by the autumn colours of the valley, but also of the alien plant species and climate change that threaten its survival.
