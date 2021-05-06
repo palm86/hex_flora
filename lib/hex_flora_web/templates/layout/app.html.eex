@@ -33,5 +33,10 @@
     <main role="main" class="container">
       <%= @inner_content %>
     </main>
+    <footer class="footer mt-auto py-3 bg-light">
+      <div class="container">
+        <span class="text-muted">Please report issues <a href="https://github.com/palm86/hex_flora/issues/new">here</a>. This content is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
+      </div>
+    </footer>
   </body>
 </html>

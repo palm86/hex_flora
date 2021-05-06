@@ -5,19 +5,19 @@
     the indigenous flora of the Hex River Valley and Mountains.</p>
 
     <p>No less than nine vegetation types flow into one another in the valley
-    floor, kloofs, cliffs and koppies of the Hex River Valley. Most prominent
+    floor, kloofs, cliffs and buttes (koppies) of the Hex River Valley. Most prominent
     among these are the South Hex Sandstone Fynbos, adorning the rain shadow
     slopes of the Matroosberg, the North Langeberg Sandstone Fynbos of the
     Kwadousberg, the Robertson Karoo vegetation around the town of De Doorns and
     the Osplaas Train Station, and the Breede Alluvial Fynbos in the valley
     floor, now largely replaced by vineyards.</p>
 
-    <p>The specimens in this online herbarium are collected by collaborators
+    <p>The specimens in this online herbarium are collected
     with the aim of creating awareness of the biodiversity and natural beauty
     of the valley's flora, easily overshadowed by the autumn colours of
     <span class="font-italic">Vitis vinifera</span>, the common grape vine.
-    But we also wish to emphasize the threat of invasive plant species and
-    climate change to the continued existence of this precious and unique floral
+    But also to emphasize the impact of invasive species, climate change, and
+    agriculture on the continued existence of this precious and unique floral
     region.</p>
 
     <h2>Collect and identify</h2>
@@ -31,8 +31,8 @@
 
     <h2>Anyone can contribute</h2>
 
-    <p>This is a massive undertaking and any help is appreciated. Here are some of the
-    ways in which you can help:</p>
+    <p>This is a massive undertaking and any help is greatly appreciated. Here are some of the
+    ways in which you can get involved:</p>
 
     <ul>
       <li>provide quality photographs, taken in the valley, of a local species</li>
@@ -42,8 +42,8 @@
       <li>make a logo for this website</li>
     </ul>
 
-    <p> You can help by logging an issue on <a href="https://github.com/palm86/hex_flora">GitHub</a>, where the code and all data for this
-    website lives. If you are more technically inclined, make a pull request on GitHub
+    <p> You can help by logging an issue on <a href="https://github.com/palm86/hex_flora">GitHub</a>, where the code
+    and all data for this website lives. If you are more technically inclined, make a pull request on GitHub
     with your suggested changes. Please find detailed instructions <a href="<%= Routes.page_path(@conn, :contribute) %>">here</a>.</p>
 
     <p>You can also help indirectly by following the HexFlora project on iNaturalist. Any observations made on
@@ -62,7 +62,7 @@
     <p>I grew up on the farm Goede Hoop in the Hex River Valley. My childhood hangout was a rock garden filled
     with <i class="text-italic">Crassula ovata</i>, which we called botterbome, and <i class="text-italic">Portulacaria afra</i>,
     the well known spekboom. There my love for growing things and concocting things began. At any given time
-    I was in possession of a sizeable collection of bottles containing suspended plant materials in various
+    I curated a sizeable collection of bottles containing suspended plant materials in various
     stages of fermentation. A natural next step was to get a medicinal herb garden. Although, I never
     really prepared any herbal remedies and was much more intrigued by the familial relationships between the plants
     in my garden. At this stage I developed a keen sense of taxonomy and systematics. And then my herb garden died,
@@ -74,7 +74,7 @@
     2015 and 2018, partly because of a visit to the Rare Plant Fair at Tokara, and partly because the Paarl Nursery
     had a close-down sale (and then never closed). My wife and I filled our entire garden with indigenous Fynbos.
     And we lived waterwise ever after. But on visits to the family farm I found myself increasingly with my eyes on
-    the ground, taking pictures of anything with leaves, trying to identify them, and realizing that very few people know the
+    the ground, taking pictures of anything with leaves, trying to identify it, and realizing that very few people know the
     plants of the Hex. As a consequence of the Covid-19 pandemic, I now have the good fortune of being back
     in the Hex River Valley permanently. And I want to share the beauty of it with everyone.</p>
 

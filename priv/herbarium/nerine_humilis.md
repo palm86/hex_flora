@@ -10,13 +10,13 @@
 }
 ---
 
-Bulbous perennial.
+Bulbous perennial. Showy striated pink flowers (1 to 4) on a long peduncle appear in March and April. Leaves only appear after flowers have dried. *Nerine* species are closely related to *Brunsvigia*.
 
 <!-- read more -->
 
-## Distribution
+## Distribution in the Hex
 
-*The distribution of this species in the HRV is not known.*
+Lower southern slopes of the Hex River Mountains in semi-shaded sandy soil.
 
 ## References
 

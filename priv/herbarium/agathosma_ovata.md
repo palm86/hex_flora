@@ -1,7 +1,7 @@
 %{
     name: "Agathosma ovata",
     rank: :species,
-    common_names: ["valsboegoe"],
+    common_names: ["valsboegoe", "false buchu"],
     taxonomy: %{
         family: "Rutaceae",
         genus: "Agathosma",
@@ -10,13 +10,13 @@
 }
 ---
 
-Fragrant member of the citrus family.
+Perennial shrub with oval-shaped leaves. Numerous fragrance-secreting glands on undersides of leaves. Flowers light pink or white.
 
 <!-- read more -->
 
-## Distribution
+## Distribution in the Hex
 
-*The distribution of this species in the HRV is not known.*
+Sandy flats and slopes in the South Hex Sandstone Fynbos vegetation zone.
 
 ## References
 

@@ -14,7 +14,7 @@ The candelabra lily is a bulbous perennial that sprouts a large spherical and sh
 
 <!-- read more -->
 
-## Distribution
+## Distribution in the Hex
 
 The species grows in sandy kloofs and foothills of the Hex River Mountains in the South Hex Sandstone Fynbos vegetation zone.
 
