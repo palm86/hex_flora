@@ -1,8 +1,8 @@
 defmodule HexFloraWeb.PageController do
   use HexFloraWeb, :controller
 
-  def index(conn, _params) do
-    render(conn, "index.html")
+  def home(conn, _params) do
+    render(conn, "home.html")
   end
 
   def flora(conn, _params) do

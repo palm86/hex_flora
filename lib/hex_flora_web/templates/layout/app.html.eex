@@ -19,7 +19,7 @@
       </a>
 
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link">Herbarium</a></li>
+        <li class="nav-item"><a href="<%= Routes.specimen_path(@conn, :index) %>" class="nav-link <%= if "specimens" in @conn.path_info do %>active<% end %>">Specimens</a></li>
         <li class="nav-item"><a href="<%= Routes.page_path(@conn, :flora) %>" class="nav-link <%= if @conn.private.phoenix_action == :flora do %>active<% end %>">Flora of the Hex</a></li>
         <li class="nav-item">
           <a href="<%= Routes.page_path(@conn, :about) %>" class="nav-link <%= if @conn.private.phoenix_action == :about do %>active<% end %>">About</a>

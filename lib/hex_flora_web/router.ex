@@ -16,13 +16,12 @@ defmodule HexFloraWeb.Router do
   scope "/", HexFloraWeb do
     pipe_through :browser
 
-    get "/pages/flora-of-the-hex", PageController, :flora
-    get "/pages/about-hexflora", PageController, :about
-    get "/pages/how-to-contribute", PageController, :contribute
-    # get "/herbarium/specimens", SpecimenController, :index
-    # get "/herbarium/specimens/:id", SpecimenController, :show
-    get "/", SpecimenController, :index
-    get "/:id", SpecimenController, :show
+    get "/", PageController, :home
+    get "/flora-of-the-hex", PageController, :flora
+    get "/about-hexflora", PageController, :about
+    get "/how-to-contribute", PageController, :contribute
+    get "/specimens", SpecimenController, :index
+    get "/specimens/:id", SpecimenController, :show
   end
 
   # Other scopes may use custom stacks.

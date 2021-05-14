@@ -1,19 +1,21 @@
 <section class="row">
   <article class="column">
     <h1 class="display-4">Flora of the Hex</h1>
-    <p class="lead">The Hex (River Valley) is a transition zone between Fynbos, Succulent Karoo and Renosterveld vegetation types.</p>
+    <p class="lead">The Hex River Valley is a floral transition zone between Fynbos, Renosterveld
+    and Robertson Karoo vegetation types. It is also a geological transition zone between the Cape Fold
+    Mountains and the buttes (koppies) and mesas (table-like hills) of the Karoo.</p>
 
     <h2>Fynbos</h2>
 
     <p>Fynbos is a vegetation type that is endemic to the Cape region. The word literally translates to "fine bush",
-    a moniker owed to the small leaves and small stature common to many Fynbos species. Fynbos is not a cladistic
-    division, meaning that it is not a grouping of related plants. In fact, many Fynbos species belong to common families, such
-    as the daisy family (Asteraceae), that are not considered to be Fynbos families as such.</p>
+    a name owed to the small leaves and small stature common to many Fynbos species. Fynbos is not a cladistic
+    division, meaning that it is not a grouping of related plants. In fact, many Fynbos species are closely
+    related to species that are not considered Fynbos.</p>
 
-    <p>Fynbos species tend to be highly specialized and adapted to their habitats. They thrive in sandy nutrient
-    poor soils, and generally occur in winter rain fall areas. They are extremely well-adapted to the dry hot
-    summer months. They often have small, hairy, reflective leaves so as to minimize water loss and to reflect
-    the sun. Some species lose their leaves in summer completely or even lose all above ground parts.</p>
+    <p>Fynbos species tend to be highly specialized and adapted to their habitats. They thrive in sandy, nutrient-poor,
+    acidic soils (hence the local name "Suurveld" or acidic field), and occur in winter rainfall areas. They are extremely
+    well-adapted to the dry hot summer months. They often have small, hairy, reflective leaves so as to minimize water
+    loss and to reflect the sun. Some species lose their leaves in summer completely or even lose all above ground parts.</p>
 
     <p>Many Fynbos species rely on fire to stimulate germination, but too frequent burning is detrimental
     to their survival. It is thought that the supply of nutrient rich ash after a veld fire helps new
@@ -22,21 +24,10 @@
 
     <p>In general, however, there is no single feature that definitively lets one classify a species
     as Fynbos. Many Fynbos species can be found in more arid regions that would otherwise be
-    classified as Succulent Karoo.</p>
+    classified as Renosterveld or Karoo.</p>
 
-    <h2>Succulents</h2>
-
-    <p>Succulents are plants that are highly adapted to dry conditions. They often have fleshy, waxy, and bulky
-    leaves that specialize in retaining water. Some species lose their leaves in summer and retain water supplies
-    in bulky trunks. Others, like the members of the Crassulaceae family have acquired a specialized
-    photosynthetic process (crassulacean acid metabolism) that allows them to exchange gas at night when the
-    risk of water loss through their stomata is smallest. Succulents are not generally adapted to nutrient-poor
-    soils and are usually found in summer rainfall areas. Although the succulents of the Robertson Karoo vegetation
-    type are adapted to winter rains. Succulents also occur in typical Fynbos areas.</p>
-
-    <h2>Vegetation types in and around the Hex</h2>
-
-    <p>Nine different Fynbos and Succulent vegetation types can be found in and around the Hex River Valley:</p>
+    <p>The following Fynbos vegetation types can be found in the Hex River Valley, mostly in the Hex River Mountains,
+    but also in the valley floor:</p>
 
     <ul>
       <li>North Hex Sandstone Fynbos</li>
@@ -44,10 +35,37 @@
       <li>North Langeberg Sandstone Fynbos</li>
       <li>Western Altimontane Fynbos</li>
       <li>Breede Alluvium Fynbos</li>
-      <li>Matjiesfontein Shale Renosterveld</li>
-      <li>Robertson Karoo</li>
       <li>Northern Inbound Shale Band</li>
       <li>Central Coastal Shale Band</li>
+    </ul>
+
+    <h2>Renosterveld</h2>
+
+    <p>Renosterveld is a vegetation type that is strictly part of the Fynbos Biome, but prefers more nutrient rich soils
+    and therefore lacks several characteristic Fynbos species such as proteas, heaths, restios, and hardleaves. Instead,
+    Renosterveld is dominated by the Renosterbos, a hardy pale unpalatable shrub. Other notable species such as snowbushes,
+    karees, sand olives, and tentfigs, some of which also occur in Fynbos, accompany the Renosterbos.</p>
+
+    <p>The specific type of Renosterveld that occurs in the northeastern parts of the Hex River Valley are known as
+    Matjiesfontein Shale Renosterveld.</p>
+
+    <h2>Robertson Karoo</h2>
+
+    <p>The Robertson Karoo is a vegetation type of the Succulent Karoo biome. It is endemic to the Breede River
+    Valley and Robertson. It is a winter rainfall area, but being on the rain shadow side of the Hex River Mountains
+    it receives much less rain than the Fynbos vegetation. As such, the area is rich in succulents (such as aloes,
+    spurges, butterbushes, babboon cabbages, and even succulent geraniums) and seasonal geophytes (sorrels and daisies). The area
+    is also rich in typical "Karoobossies" such as kraalbushes, gumbushes and snowbushes.</p>
+
+    <p>In the Hex River Valley, this vegetation type can be found on the shale soils around the town of De Doorns as well
+    as around the old Osplaas Rail Station and towards Appaskop in the upper valley.</p>
+
+    <h2>References</h2>
+
+    <ul>
+      <li>Manning, J., 2018. Field Guide to Fynbos</li>
+      <li>Wikipedia</li>
+      <li>SANBI</li>
     </ul>
 
   </article>
