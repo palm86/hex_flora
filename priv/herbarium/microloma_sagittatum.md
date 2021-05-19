@@ -1,7 +1,7 @@
 %{
     name: "Microloma sagittatum",
     rank: :species,
-    common_names: ["bokhorinkies", "melktou", "rock minimouth"],
+    common_names: ["bokhorinkies", "melktou", "rockcandy minimouth"],
     taxonomy: %{
         family: "Apocynaceae",
         genus: "Microloma",

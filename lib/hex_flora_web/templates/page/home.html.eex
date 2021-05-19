@@ -1,18 +1,41 @@
-<section class="row">
-<div class="px-4 pt-5 my-5 text-center border-bottom">
-    <h1 class="display-4 fw-bold">Welcome!</h1>
-    <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">HexFlora is an online Herbarium, dedicated to the flora of the Hex River Valley.
-      Browse through all the specimens or read more about us.</p>
-      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="<%= Routes.specimen_path(@conn, :index) %>">Browse specimens</a>
-        <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="<%= Routes.page_path(@conn, :about) %>">Read more</a>
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>HexFlora</title>
+    <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap" rel="stylesheet">
+    <script defer type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
+  </head>
+  <body class="d-flex flex-column h-100">
+
+<!-- Begin page content -->
+<main class="flex-shrink-0 container">
+    <section class="row">
+      <div class="px-4 pt-5 my-5 text-center border-bottom">
+        <h1 class="display-4" style="font-family: 'New Tegomin', serif;">HexFlora</h1>
+        <div class="col-lg-6 mx-auto">
+          <p class="lead mb-4">HexFlora is an online Herbarium, dedicated to the flora of the Hex River Valley.
+          Browse through all the specimens or read more about us.</p>
+          <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
+            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="<%= Routes.specimen_path(@conn, :index) %>">Browse specimens</a>
+            <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="<%= Routes.page_path(@conn, :about) %>">Read more</a>
+          </div>
+        </div>
       </div>
-    </div>
-    <div class="overflow-hidden" style="max-height: 30vh;">
-      <div class="container px-5">
-        <%# img src="bootstrap-docs.png" class="img-fluid border rounded-3 shadow-lg mb-4" alt="Example image" width="700" height="500" loading="lazy" %>
-      </div>
-    </div>
+    </section>
+</main>
+
+
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container text-center">
+    <span class="text-muted">Please report issues <a href="https://github.com/palm86/hex_flora/issues/new">here</a>. This content is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
   </div>
-</section>
+</footer>
+</body>
+
+</html>

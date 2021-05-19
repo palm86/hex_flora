@@ -1,24 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>HexFlora · eHerbarium</title>
+    <title>HexFlora</title>
     <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap" rel="stylesheet">
     <script defer type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
   </head>
-  <body>
+  <body class="d-flex flex-column h-100 overflow-auto">
     <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
-        <span class="fs-1" style="font-family: 'New Tegomin', serif;">HexFlora · eHerbarium</span>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container">
+      <a href="/" class="navbar-brand d-flex align-items-center mb-3 mb-md-0 me-md-auto text-decoration-none">
+        <%# svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg %>
+        <span class="" style="font-family: 'New Tegomin', serif;">HexFlora</span>
       </a>
-
-      <ul class="nav nav-pills">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav ms-auto mb-2 mb-md-0">
         <li class="nav-item"><a href="<%= Routes.specimen_path(@conn, :index) %>" class="nav-link <%= if "specimens" in @conn.path_info do %>active<% end %>">Specimens</a></li>
         <li class="nav-item"><a href="<%= Routes.page_path(@conn, :flora) %>" class="nav-link <%= if @conn.private.phoenix_action == :flora do %>active<% end %>">Flora of the Hex</a></li>
         <li class="nav-item">
@@ -28,13 +33,20 @@
           <a href="<%= Routes.page_path(@conn, :contribute) %>" class="nav-link <%= if @conn.private.phoenix_action == :contribute do %>active<% end %>">Contribute</a>
         </li>
       </ul>
+        <%# form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form %>
+      </div>
+    </div>
+  </nav>
     </header>
     </div>
-    <main role="main" class="container">
+    <main role="main" class="container h-auto" style="padding-top: 60px; padding-bottom: 60px;">
       <%= @inner_content %>
     </main>
-    <footer class="footer mt-auto py-3 bg-light">
-      <div class="container">
+    <footer class="footer mt-auto py-3 bg-light fixed-bottom">
+      <div class="container text-center">
         <span class="text-muted">Please report issues <a href="https://github.com/palm86/hex_flora/issues/new">here</a>. This content is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
       </div>
     </footer>

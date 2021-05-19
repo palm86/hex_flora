@@ -2,7 +2,9 @@ defmodule HexFloraWeb.PageController do
   use HexFloraWeb, :controller
 
   def home(conn, _params) do
-    render(conn, "home.html")
+    conn
+    |> put_layout(false)
+    |> render("home.html")
   end
 
   def flora(conn, _params) do
