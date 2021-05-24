@@ -1,7 +1,7 @@
 FROM elixir:1.12-alpine AS build
 
 # install build dependencies
-RUN apk add --no-cache build-base npm git imagemagick
+RUN apk add --no-cache build-base npm git imagemagick libstdc++
 
 # prepare build dir
 WORKDIR /app
