@@ -1,7 +1,7 @@
 FROM elixir:1.12-alpine AS build
 
 # install build dependencies
-RUN apk add --no-cache build-base npm git imagemagick libstdc++
+RUN apk add --no-cache build-base npm git imagemagick
 
 # prepare build dir
 WORKDIR /app
@@ -36,7 +36,7 @@ RUN mix do compile, release
 
 # prepare release image
 FROM alpine:3.9 AS app
-RUN apk add --no-cache openssl ncurses-libs
+RUN apk add --no-cache openssl ncurses-libs build-base
 
 WORKDIR /app
 
