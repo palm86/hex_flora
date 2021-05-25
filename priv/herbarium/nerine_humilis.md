@@ -1,7 +1,7 @@
 %{
     name: "Nerine humilis",
     rank: :species,
-    common_names: ["bergnerina"],
+    common_names: ["mountain nerine", "bergnerina"],
     taxonomy: %{
         family: "Amaryllidaceae",
         genus: "Nerine",

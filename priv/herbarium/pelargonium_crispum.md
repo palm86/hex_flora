@@ -3,8 +3,9 @@
     rank: :species,
     common_names: ["lemon-scented pelargonium", "suurlemoenmalva"],
     taxonomy: %{
-        family: "Geraniacea",
-        genus: "Pelargonium"
+        family: "Geraniaceae",
+        genus: "Pelargonium",
+        species: "crispum"
     }
 }
 ---

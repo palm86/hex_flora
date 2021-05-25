@@ -3,9 +3,9 @@
     rank: :species,
     common_names: ["rooibessievoëlent", "red berry mistletoe"],
     taxonomy: %{
+        family: "Santalaceae",
         genus: "Viscum",
-        species: "rotundifolia",
-        family: "Santalaceae"
+        species: "rotundifolia"
     }
 }
 ---

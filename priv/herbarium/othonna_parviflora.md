@@ -3,7 +3,7 @@
     rank: :species,
     common_names: ["bobbejaankool", "poorflower babooncabbage"],
     taxonomy: %{
-        family: "Asteracea",
+        family: "Asteraceae",
         genus: "Othonna",
         species: "parviflora"
     }
