@@ -51,6 +51,12 @@
 
     <h2>Robertson Karoo</h2>
 
+    <figure class="figure w-50 float-start" style="margin-right: 20px;">
+      <img src="<%= Routes.static_url(@conn, "/images/robertson_karoo.jpg") %>" class="figure-img img-thumbnail" alt="Robertson Karoo">
+      <figcaption class="figure-caption">A typical <b>Robertson Karoo</b> landscape. </figcaption>
+    </figure>
+
+
     <p>The Robertson Karoo is a vegetation type of the Succulent Karoo biome. It is endemic to the Breede River
     Valley and Robertson. It is a winter rainfall area, but being on the rain shadow side of the Hex River Mountains
     it receives much less rain than the Fynbos vegetation. As such, the area is rich in succulents (such as aloes,

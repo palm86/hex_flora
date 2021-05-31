@@ -1,11 +1,11 @@
 %{
-    name: "Stapelia grandiflora",
+    name: "Stapelia hirsuta",
     rank: :species,
-    common_names: ["carrion plant", "aasblom"],
+    common_names: ["carrion plant", "aasblom", "haasoor"],
     taxonomy: %{
         family: "Apocynaceae",
         genus: "Stapelia",
-        species: "grandiflora"
+        species: "hirsuta"
     }
 }
 ---
@@ -14,8 +14,8 @@ Succulent with multiple short leafless bulky gray green stems. Produces a star-s
 
 <!-- read more -->
 
-This identification is made under correction, especially since *S. grandiflora* is not recorded as occuring in
-this area in at least one authoratative guide.
+*S. hirsuta* is a very variable species with a number of recognized variants. It is closely related to *S. grandiflora*
+which occurs in the Eastern Cape and Free State.
 
 ## Distribution in the Hex
 
@@ -24,3 +24,4 @@ Robertson Karoo vegetation near the old Osplaas Railway station.
 ## References
 
 * Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa
+* http://pza.sanbi.org/stapelia
