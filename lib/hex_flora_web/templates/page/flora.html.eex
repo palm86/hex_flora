@@ -1,9 +1,26 @@
 <section class="row">
-  <article class="column">
+  <article class="col">
     <h1 class="display-4">Flora of the Hex</h1>
     <p class="lead">The Hex River Valley is a floral transition zone between Fynbos, Renosterveld
     and Robertson Karoo vegetation types. It is also a geological transition zone between the Cape Fold
     Mountains and the buttes (koppies) and mesas (table-like hills) of the Karoo.</p>
+
+    <div class="row wx-auto row-cols-1 row-cols-sm-3">
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/fynbos.jpg") %>" class="figure-img img-thumbnail" alt="Fynbos">
+        <figcaption class="figure-caption">A <b>Fynbos</b> landscape, featuring a slangbush (<i>Seriphium plumosum</i>).</figcaption>
+      </figure>
+
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/renosterveld.jpg") %>" class="figure-img img-thumbnail" alt="Fynbos">
+        <figcaption class="figure-caption">A <b>Renosterveld</b> landscape, featuring the renosterbos (<i>Dicerothamnus rhinocerotis</i>).</figcaption>
+      </figure>
+
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/robertson_karoo.jpg") %>" class="figure-img img-thumbnail" alt="Robertson Karoo">
+        <figcaption class="figure-caption">A typical <b>Robertson Karoo</b> landscape, featuring the botterboom (<i>Tylecodon paniculatus</i>).</figcaption>
+      </figure>
+    </div>
 
     <h2>Fynbos</h2>
 
@@ -51,15 +68,11 @@
 
     <h2>Robertson Karoo</h2>
 
-    <figure class="figure w-50 float-start" style="margin-right: 20px;">
-      <img src="<%= Routes.static_url(@conn, "/images/robertson_karoo.jpg") %>" class="figure-img img-thumbnail" alt="Robertson Karoo">
-      <figcaption class="figure-caption">A typical <b>Robertson Karoo</b> landscape. </figcaption>
-    </figure>
-
-
     <p>The Robertson Karoo is a vegetation type of the Succulent Karoo biome. It is endemic to the Breede River
     Valley and Robertson. It is a winter rainfall area, but being on the rain shadow side of the Hex River Mountains
-    it receives much less rain than the Fynbos vegetation. As such, the area is rich in succulents (such as aloes,
+    it receives much less rain than the Fynbos vegetation.</p>
+
+    <p>As such, the area is rich in succulents (such as aloes,
     spurges, butterbushes, babboon cabbages, and even succulent geraniums) and seasonal geophytes (sorrels and daisies). The area
     is also rich in typical "Karoobossies" such as kraalbushes, gumbushes and snowbushes.</p>
 
@@ -70,8 +83,9 @@
 
     <ul>
       <li>Manning, J., 2018. Field Guide to Fynbos</li>
-      <li>Wikipedia</li>
-      <li>SANBI</li>
+      <li>https://en.wikipedia.org/wiki/Renosterveld</li>
+      <li>https://en.wikipedia.org/wiki/Robertson_Karoo</li>
+      <li>http://pza.sanbi.org/vegetation (and related links)</li>
     </ul>
 
   </article>
