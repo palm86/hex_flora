@@ -1,7 +1,7 @@
 %{
     name: "Aloe perfoliata",
     rank: :species,
-    common_names: [],
+    common_names: ["kransaalwyn", "mitre aloe"],
     taxonomy: %{
         family: "Asphodelaceae",
         genus: "Aloe",
