@@ -10,7 +10,6 @@ use Mix.Config
 # Configures the endpoint
 config :hex_flora, HexFloraWeb.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "8Ax7PAmLGGeImTERigtTBYVyWhxPXtlZtx6VGF55nTrKINzNZ86lD3pGWTWEWY+d",
   render_errors: [view: HexFloraWeb.ErrorView, accepts: ~w(html json), layout: false],
   pubsub_server: HexFlora.PubSub,
   live_view: [signing_salt: "bTsGrX0l"]
