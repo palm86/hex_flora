@@ -42,7 +42,7 @@
   </nav>
     </header>
     </div>
-    <main role="main" class="container h-auto" style="padding-top: 60px; padding-bottom: 60px;">
+    <main role="main" class="container h-auto" style="padding-top: 60px; padding-bottom: 104px;">
       <%= @inner_content %>
     </main>
     <footer class="footer mt-auto py-3 bg-light fixed-bottom">

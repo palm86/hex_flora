@@ -10,7 +10,7 @@
 }
 ---
 
-Bulbous perennial. Showy striated pink flowers (1 to 4) on a long peduncle appear in March and April. Leaves only appear after flowers have dried. *Nerine* species are closely related to *Brunsvigia*.
+Bulbous perennial. Showy striated pink flowers (1-4) on a long peduncle appear in March and April. Leaves only appear after flowers have dried. *Nerine* species are closely related to *Brunsvigia*.
 
 <!-- read more -->
 

@@ -15,7 +15,7 @@
     <p>The specimens in this online herbarium are collected
     with the aim of creating awareness of the biodiversity and natural beauty
     of the valley's flora, easily overshadowed by the autumn colours of
-    <span class="font-italic">Vitis vinifera</span>, the common grape vine.
+    <i>Vitis vinifera</i>, the common grape vine.
     But also to emphasize the impact of invasive species, climate change, and
     agriculture on the continued existence of this precious and unique floral
     region.</p>
@@ -31,8 +31,13 @@
 
     <h2>Anyone can contribute</h2>
 
-    <p>This is a massive undertaking and any help is greatly appreciated. Here are some of the
-    ways in which you can get involved:</p>
+    <p>This is a massive undertaking and any help is greatly appreciated. The easiest
+    way to get involved is to download the iNaturalist app and to start making
+    observations of species in the Hex. You can also identify observations made
+    by others. HexFlora has a corresponding <a href="https://www.inaturalist.org/projects/hexflora">
+    project</a> on iNaturalist that includes all plant observations made in the Hex River Valley.</p>
+
+    <p>Here are some other more direct ways in which you can get involved:</p>
 
     <ul>
       <li>provide quality photographs, taken in the valley, of a local species</li>
@@ -42,12 +47,11 @@
       <li>make a logo for this website</li>
     </ul>
 
-    <p> You can help by logging an issue on <a href="https://github.com/palm86/hex_flora">GitHub</a>, where the code
-    and all data for this website lives. If you are more technically inclined, make a pull request on GitHub
+    <p>Reach out to me (<a href="https://www.inaturalist.org/people/daniepalm">daniepalm</a>) on iNaturalist
+    if you would like to help with any of the above. If you are more technically inclined
+    you can also help by logging an issue on <a href="https://github.com/palm86/hex_flora">GitHub</a>, where the code
+    and all data for this website lives. If you are even more technically inclined, make a pull request on GitHub
     with your suggested changes. Please find detailed instructions <a href="<%= Routes.page_path(@conn, :contribute) %>">here</a>.</p>
-
-    <p>You can also help indirectly by following the HexFlora project on iNaturalist. Any observations made on
-    iNaturalist will be taken up in the HexFlora iNaturalist collection for all the world to help identify.</p>
 
     <h2>Copyright and license</h2>
 
