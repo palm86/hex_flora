@@ -1,7 +1,7 @@
 %{
     name: "Stapelia hirsuta",
     rank: :species,
-    common_names: ["carrion plant", "aasblom", "haasoor"],
+    common_names: ["aasblom", "haasoor", "carrion plant"],
     taxonomy: %{
         family: "Apocynaceae",
         genus: "Stapelia",
@@ -23,5 +23,5 @@ Robertson Karoo vegetation near the old Osplaas Railway station.
 
 ## References
 
-* Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa
+* Manning, J., 2018. Field Guide to Fynbos
 * http://pza.sanbi.org/stapelia

@@ -1,7 +1,7 @@
 %{
     name: "Agathosma ovata",
     rank: :species,
-    common_names: ["valsboegoe", "false buchu"],
+    common_names: ["vals boegoe", "false buchu"],
     taxonomy: %{
         family: "Rutaceae",
         genus: "Agathosma",

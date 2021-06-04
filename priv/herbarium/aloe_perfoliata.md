@@ -11,7 +11,7 @@
 ---
 
 Sprawling perennial with stem of up to 2m. Often dangling from a cliff or prostrate with only leaf-bearing parts upright.
-Oval triangular leaves with spots and with thorns along the margins. Red flowers on a raceme. Synonymous with *Aloe mitriformis*.
+Oval triangular leaves with spots and with thorns along the margins and undersides. Red flowers on a raceme. Synonymous with *Aloe mitriformis*.
 
 <!-- read more -->
 

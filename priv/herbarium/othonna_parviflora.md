@@ -10,7 +10,7 @@
 }
 ---
 
-They are shrubs of up to 2 meters tall. Leaves are leathery, lance-shaped and toothed, bearing some resemblance to cabbage. They bear clusters of numerous small radiate yellow flowers.
+Shrub of up to 2 meters tall. Leaves are leathery, lance-shaped and toothed, bearing some resemblance to cabbage. Bears clusters of numerous small radiate yellow flowers.
 
 <!-- read more -->
 

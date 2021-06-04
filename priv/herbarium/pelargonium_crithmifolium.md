@@ -10,7 +10,7 @@
 }
 ---
 
-Succulent perennial shrub. Trunks are bulky and green and able to photosynthesize in summer when the leaves are absent. The leaves are pinnate. White flowers are produced on panicles that later dry and become spiny.
+Succulent perennial shrub. Trunks are gray and bulky, but turn green in summer when leaves are absent. The leaves are pinnate. White flowers are produced on panicles that later dry and become spiny. Dried panicles are often retained until the next season.
 
 <!-- read more -->
 

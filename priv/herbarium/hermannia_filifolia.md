@@ -10,7 +10,7 @@
 }
 ---
 
-Perennial shrublet with grey bark. Younger branches red. Leaves strap-shape occuring in clusters. Individual flowers on a raceme near the tips of branches. Twisted red or orange corolla in star-shaped yellow green calyx.Higly drought resistant and responds well to rain.
+Perennial shrublet with grey bark. Younger branches red. Leaves strap-shaped occuring in clusters. Individual flowers on a raceme near the tips of branches. Twisted red or orange corolla in star-shaped yellow green calyx. Highly drought resistant and responds well to rain.
 
 <!-- read more -->
 

@@ -20,4 +20,5 @@ Co-distributed with host. Found in Renosterveld, Robertson Karoo and Fynbos vege
 
 ## References
 
-*
+* Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa
+* https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/viscum-capense
