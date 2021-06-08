@@ -1,7 +1,7 @@
 %{
     name: "Syncarpha canescens",
     rank: :species,
-    common_names: ["pienk sewejaartjie", "everlasting flower"],
+    common_names: ["pienk sewejaartjie"],
     taxonomy: %{
         family: "Asteraceae",
         genus: "Syncarpha",
