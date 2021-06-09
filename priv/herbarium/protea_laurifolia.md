@@ -10,7 +10,7 @@
 }
 ---
 
-Large shrub or small tree with broad rounded gray leaves. Leaves have a sharp tip. Pink cylindrical inflorescens. Involucral bracts (green to pink) end
+Large shrub or small tree with broad rounded leathery gray leaves. Leaves have a sharp tip. Pink cylindrical inflorescens. Involucral bracts (green to pink) end
 in feathery white and black tip.
 
 <!-- read more -->
