@@ -1,7 +1,7 @@
 %{
     name: "Ornithogallum dubium",
     rank: :species,
-    common_names: ["geel tjienerientjee", "yellow chincherinchee"],
+    common_names: ["geel tjienkerientjee", "yellow chincherinchee"],
     taxonomy: %{
         family: "Asparagaceae",
         genus: "Ornithogallum",
