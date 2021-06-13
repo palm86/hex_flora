@@ -8,7 +8,7 @@
     <div class="row wx-auto row-cols-1 row-cols-sm-3">
       <figure class="figure col">
         <img src="<%= Routes.static_url(@conn, "/images/fynbos.jpg") %>" class="figure-img img-thumbnail" alt="Fynbos">
-        <figcaption class="figure-caption">A <b>Fynbos</b> landscape, featuring a slangbush (<i>Seriphium plumosum</i>).</figcaption>
+        <figcaption class="figure-caption">A <b>Fynbos</b> landscape, featuring a common sunshine conebush (<i>Leucadendron salignum</i>).</figcaption>
       </figure>
 
       <figure class="figure col">
