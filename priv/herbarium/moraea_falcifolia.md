@@ -1,7 +1,7 @@
 %{
     name: "Moraea falcifolia",
     rank: :species,
-    common_names: ["Cape tulip"],
+    common_names: ["Cape tulip", "tulp"],
     taxonomy: %{
         family: "Iridaceae",
         genus: "Moraea",
