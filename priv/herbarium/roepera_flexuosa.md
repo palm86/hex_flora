@@ -10,7 +10,7 @@
 }
 ---
 
-Sprawling shrub. Leaves are opposite, stemless and divided into two oval leaflets. Flowers consists of five flexed-back
+Sprawling perennial shrub. Leaves are opposite, stemless and divided into two oval leaflets. Flowers (June to October) consists of five flexed-back
 yellow petals with red markings towards the base. Fruits are globular; wider than long.
 
 <!-- read more -->
