@@ -1,7 +1,7 @@
 %{
     name: "Polygala affinis",
     rank: :species,
-    common_names: [],
+    common_names: ["rough false pea"],
     taxonomy: %{
         family: "Polygalaceae",
         genus: "Polygala",
