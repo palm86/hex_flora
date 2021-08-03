@@ -1,7 +1,7 @@
 %{
     name: "Oxalis convexula",
     rank: :species,
-    common_names: [],
+    common_names: ["\"outward-curved woodsorrel\""],
     taxonomy: %{
         family: "Oxalidaceae",
         genus: "Oxalis",

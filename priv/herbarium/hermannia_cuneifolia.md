@@ -19,9 +19,6 @@ a raceme of secund (arrangend on one side only) cymes on terminal branchlets. Br
 nodes below flowers. The calyx is bell-shaped. Flower petals are yellow to orange, with
 both colours present on the same individual; narrowed at base with inrolled margins.
 
-
-Capsule lepidote-stellate, about 7 mm long.
-
 <!-- read more -->
 
 ## Distribution in the Hex

@@ -1,7 +1,7 @@
 %{
     name: "Oxalis leptogramma",
     rank: :species,
-    common_names: ["suring"],
+    common_names: ["\"fine-lined woodsorrel\""],
     taxonomy: %{
         family: "Oxalidaceae",
         genus: "Oxalis",
