@@ -14,7 +14,7 @@ Succulent shrublet with warty stem. Pale green succulent leaves usually upright,
 
 <!-- read more -->
 
-Readily hybridizes with *T. paniculatus* when occuring together.
+Readily hybridizes with *T. paniculatus* when occuring together. The name *Tylecodon* is an anagram of *Cotyledon*, a closely related genus of plants.
 
 ## Distribution in the Hex
 
