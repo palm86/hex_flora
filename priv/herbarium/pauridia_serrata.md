@@ -1,7 +1,7 @@
 %{
     name: "Pauridia serrata",
     rank: :species,
-    common_names: ["sterretjie],
+    common_names: ["sterretjie"],
     taxonomy: %{
         family: "Hypoxidaceae",
         genus: "Pauridia",
@@ -10,7 +10,7 @@
 }
 ---
 
-Cormous perennial with grass-like leaves. Bears single yellow flowers with 6 petals and green reverse.
+Cormous perennial with grass-like leaves. Bears single yellow flowers with 6 petals and green reverse in late winter.
 
 <!-- read more -->
 
