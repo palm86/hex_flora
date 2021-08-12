@@ -15,6 +15,6 @@ and white lower lip in burgundy calyx. Carpenter bees are notable pollinators.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 The species grows in sandy kloofs and foothills of the Hex River Mountains to the north west of the valley in the South Hex Sandstone Fynbos vegetation zone.

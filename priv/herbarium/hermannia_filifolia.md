@@ -14,10 +14,10 @@ Perennial shrublet with grey bark. Younger branches red. Leaves strap-shaped occ
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Rocky and sandy flats in the South Hex Fynbos vegetation type.
 
-## References
+### References
 
 * http://pza.sanbi.org/hermannia

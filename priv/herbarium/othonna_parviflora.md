@@ -14,10 +14,10 @@ Shrub of up to 2 meters tall. Leaves are leathery, lance-shaped and toothed, bea
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 The species grows in sandy kloofs and foothills of the Hex River Mountains to the north west of the valley in the South Hex Sandstone Fynbos vegetation zone.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

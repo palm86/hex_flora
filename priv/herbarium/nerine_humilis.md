@@ -14,10 +14,10 @@ Bulbous perennial. Showy striated pink flowers (1-4) on a long peduncle appear i
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Lower southern slopes of the Hex River Mountains in semi-shaded sandy soil.
 
-## References
+### References
 
 *Please add references*

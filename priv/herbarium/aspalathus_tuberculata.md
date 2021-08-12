@@ -16,10 +16,10 @@ Erect shrub 30-100cm tall. Older plants often sprawling with curved branches. Tu
 
 The genus *Aspalathus* has no general common name, although the term "Capegorse" (Kaapse brem) has been proposed. A suitable common name for *A. tuberculata* could therefore be "warty Capegorse". *A. tuberculata* is related to *A. linearis*, better known as rooibostee.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Red clay or gravel soils on low-altitude flats or slopes. Usually found in Renosterveld-like vegetation.
 
-## References
+### References
 
 * https://plants.jstor.org/stable/10.5555/al.ap.flora.flosa000110036400506

@@ -21,10 +21,10 @@ both colours present on the same individual; narrowed at base with inrolled marg
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats in De Doorns Sandstone Fynbos vegetation.
 
-## References
+### References
 
 * Verdoorn, I. C., 1980, Revision of Hermannia subgenus Hermannia in southern Africa, Bothalia 13,1 & 2: 1-63 (1980)

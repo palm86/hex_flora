@@ -16,10 +16,10 @@ and has 8-24 ray florets and 25-150 disc florets.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld and arid shale flats and slopes.
 
-## References
+### References
 
 * http://pza.sanbi.org/euryops-tenuissimus

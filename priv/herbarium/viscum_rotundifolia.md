@@ -14,10 +14,10 @@ Perennial obligate (needs host to complete lifecycle) stem hemiparasite (relies 
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Same as hosts. Sandy flats.
 
-## References
+### References
 
 * Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa

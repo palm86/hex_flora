@@ -15,10 +15,10 @@ Deciduous (dies back in summer) bulbous perennial shrublet. Bears 5-8 linear lea
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Stony clay flats and slopes.
 
-## References
+### References
 
 * http://pza.sanbi.org/ornithogalum-dubium

@@ -16,7 +16,7 @@ and bursts open. The dried fruit capsules remain on the plant throughout winter.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld and arid fynbos vegetations types towards the north east of the value. Probably fairly common throughout
 the valley floor.

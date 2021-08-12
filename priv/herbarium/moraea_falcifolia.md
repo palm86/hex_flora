@@ -15,11 +15,11 @@ radially symmetrical with large outer tepals and claw-like inner tepals.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Shale soils of arid fynbos communities in the valley floor.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * https://en.wikipedia.org/wiki/Moraea

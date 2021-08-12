@@ -16,11 +16,11 @@ Herbaceous annual shrublet of about 40 cm covered in glandular hair. Leaves are 
 
 Probably synonymous with *Osteospermum clandestinum*. An older name is *Monoculus monstrosus*, meaning "one-eyed monster".
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Shale or disturbed soils in valley floor.
 
-## References
+### References
 
 * https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/osteospermum-monstrosum
 * Manning, J., 2018. Field Guide to Fynbos

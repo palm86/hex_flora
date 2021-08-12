@@ -17,10 +17,10 @@ and damaged landscapes. The peduncles and flowers are edible, but quite sour.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Usually clays soils throughout the valley floor and in Robertson Karoo vegetation types.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

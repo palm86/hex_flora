@@ -14,10 +14,10 @@ Much-branched woody perennial shrublet. Bears needle-like leaves in tufts. Flowe
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 North-western karroid shale slopes.
 
-## References
+### References
 
 * https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/felicia-filifolia

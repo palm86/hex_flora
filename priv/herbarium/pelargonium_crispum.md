@@ -14,6 +14,6 @@ Perennial shrub with strong lemon scent. Leaves small and curled. Flowers have t
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats and slopes of the Matroosberg mountains in the South Hex Sandstone Fynbos vegetation zone.

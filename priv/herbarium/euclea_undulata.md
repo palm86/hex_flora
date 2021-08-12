@@ -17,10 +17,10 @@ appears from February.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Robertson Karoo near Osplaas Railway Station and Renosterveld vegetation types in the upper valley.
 
-## References
+### References
 
 * http://pza.sanbi.org/euclea-undulata

@@ -15,10 +15,10 @@ it has separate male and female plants. Female and male flowers are surrounded b
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Slopes and flats, often in kloof mouths of the South Hex Sandstone Fynbos (suurveld).
 
-## References
+### References
 
 * http://pza.sanbi.org/leucadendron-salignum

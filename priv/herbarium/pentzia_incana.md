@@ -16,11 +16,11 @@ Aromatic dense bushy subshrub. Covered in short woolly hair. Small grey green le
 
 *P. incana* is one of the most important pasture plants of the Karoo and its essential oils are thought to make a major contribution to the distinctive taste of Karoo lamb meat.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Northern slopes of De Doorns Renosterveld Karoo vegetation types.
 
-## References
+### References
 
 * https://www.tandfonline.com/doi/abs/10.2989/10220119.2018.1495265
 * http://southwestdesertflora.com/WebsiteFolders/All_Species/Asteraceae/Pentzia%20incana,%20African%20Sheepbush.html

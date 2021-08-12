@@ -14,10 +14,10 @@
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 *No distribution information yet.*
 
-## References
+### References
 
 *

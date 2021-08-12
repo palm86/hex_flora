@@ -15,10 +15,10 @@ yellow petals with red markings towards the base. Fruits are globular; wider tha
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Although the plant prefers sandy limestone soils, it occurs in shale renosterveld and arid fynbos patches in the Hex.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

@@ -14,10 +14,10 @@ Erect shrub of up to 1.6 m. Leaves in whorls of three. Bears red, orange, or yel
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Kloofs and wet areas in the South Hex Sandstone Fynbos vegetation type.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

@@ -17,10 +17,10 @@ Bear flowerheads with yellow ray and disc florets. Fruits fleshy and black.
 
 Synonymous with *Osteospermum moniliferum".
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 De Doorns Sandstone Fynbos and De Doorns Renosterveld Karoo vegetations.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

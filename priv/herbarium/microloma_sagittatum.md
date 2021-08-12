@@ -14,10 +14,10 @@ Climber with opposite leaves. Pink urn-like flowers with petals closing the mout
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats and slopes in the South Hex Sandstone Fynbos vegetation zone.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

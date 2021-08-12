@@ -14,10 +14,10 @@ Perennial shrub (2.5m). Bears tufts of sharp twisted leaves (2-15mm). Clusters o
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy and stony flats in South Hex Sandstone Fynbos.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

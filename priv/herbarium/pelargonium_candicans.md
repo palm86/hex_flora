@@ -14,10 +14,10 @@ Low growing shrub to 30 cm. Branches grow along the ground and are covered in lo
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Lower slopes of De Doorns Sandstone Fynbos vegetation.
 
-## References
+### References
 
 * https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/pelargonium-candicans

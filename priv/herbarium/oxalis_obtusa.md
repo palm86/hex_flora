@@ -15,10 +15,10 @@ salmon-coloured flowers on a short hairy peduncle after good winter rains. The p
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld-like shale soils in valley floor.
 
-## References
+### References
 
 * https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/oxalis-obtusa

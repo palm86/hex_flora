@@ -14,10 +14,10 @@ Perennial shrublet. Branching near base (divaricate). No spines (unarmed) as are
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld in upper valley.
 
-## References
+### References
 
 * https://www.sciencedirect.com/science/article/pii/S0254629905000116

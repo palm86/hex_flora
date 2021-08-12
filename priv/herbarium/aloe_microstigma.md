@@ -16,10 +16,10 @@ Perennial succulent with blue gray leaves in a whorl. Leaves turn orange when th
 
 The specimen in the photo is an example of the *A. microstigma microstigma* subspecies, the only subspecies that occurs in Hex.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Robertson Karoo vegetation near the old Osplaas Railway Station.
 
-## References
+### References
 
 * http://pza.sanbi.org/aloe-microstigma

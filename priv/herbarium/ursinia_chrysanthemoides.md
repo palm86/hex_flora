@@ -14,10 +14,10 @@ Creeping annual or perennial with fine bipinnate leaves. Bears radiate flowerhea
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats in De Doorns Sandstone Fynbos vegetation.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

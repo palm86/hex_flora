@@ -15,10 +15,10 @@ in feathery white and black tip.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Lower sandy slopes of the South Hex Sandstone Fynbos and Renosterveld vegetation types.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

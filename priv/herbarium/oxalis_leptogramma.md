@@ -16,11 +16,11 @@ peduncles have a somewhat megenta hue. Layered and loose bulb tunic with hair-li
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Shale soils in valley floor. Often in patches and often co-located with *Oxalix burkei*.
 
-## References
+### References
 
 * Personal communication (Kenneth Oberlander)
 * https://plants.jstor.org/stable/10.5555/al.ap.specimen.nbg0107526-0?searchUri=qtype%3Dall%26query%3DOxalis%2Bleptogramma

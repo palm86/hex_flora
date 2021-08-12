@@ -14,10 +14,10 @@ Much-branched perennial gray green shrub. Branches end in a spine. Leaves are na
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats and kloofs in the South Hex Sandstone Fynbos vegetation type.
 
-## References
+### References
 
 * http://pza.sanbi.org/muraltia-spinosa

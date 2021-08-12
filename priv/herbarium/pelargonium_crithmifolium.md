@@ -14,11 +14,11 @@ Succulent perennial shrub. Trunks are gray and bulky, but turn green in summer w
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Rocky shale flats of Robertson Karoo vegetation near the old Osplaas Railway Station.
 
-## References
+### References
 
 * http://pza.sanbi.org/pelargonium-crithmifolium
 * Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa

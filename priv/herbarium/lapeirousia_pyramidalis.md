@@ -16,11 +16,11 @@ Short cormous geophyte with ribbed leaves. Bears a pyramid-shaped spike of flowe
 
 The subspecies occuring in the Hex is *L. pyramidalis pyramidalis*.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 De Doorns Renosterveld Karoo vegetation.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * http://pza.sanbi.org/lapeirousia-pyramidalis-subsp-pyramidalis

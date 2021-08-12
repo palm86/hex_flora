@@ -14,10 +14,10 @@ Cormous perennial with grass-like leaves. Bears single yellow flowers with 6 pet
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 De Doorns Sandstone Fynbos and Renosterveld vegetation. Seasonal damp flats.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

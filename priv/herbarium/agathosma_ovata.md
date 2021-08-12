@@ -14,6 +14,6 @@ Perennial shrub with oval-shaped leaves. Numerous fragrance-secreting glands on 
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy flats and slopes in the South Hex Sandstone Fynbos vegetation zone.

@@ -14,11 +14,11 @@ Perennial obligate (needs host to complete lifecycle) stem hemiparasite (relies 
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Co-distributed with host. Found in Renosterveld, Robertson Karoo and Fynbos vegetation types in the valley.
 
-## References
+### References
 
 * Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa
 * https://www.fernkloof.org.za/index.php/all-plants/plant-families/item/viscum-capense

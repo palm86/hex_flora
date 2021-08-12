@@ -17,11 +17,11 @@ flowers (cyathia). Each cluster comprises a central male cyathium surrounded by 
 
 *E. mauritanica* is a host of the unusual underground parasitic plant *Hydnora africana* (jakkalskos).
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandly flats of De Doorns Sandstone Fynbos and stony clay slopes of De Doorns Renosterveld Karoo.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * https://en.wikipedia.org/wiki/Cyathium

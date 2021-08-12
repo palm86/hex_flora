@@ -15,11 +15,11 @@ are golden yellow on wiry peduncles. Ray florets are female, disc-florets are fe
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld and arid fynbos patches in valley floor.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * https://www.operationwildflower.org.za/index.php/albums/genera-a-f/euryops/euryops-lateriflorus-thabo-2-3369

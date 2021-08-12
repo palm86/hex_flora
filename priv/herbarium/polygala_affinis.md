@@ -16,11 +16,11 @@ Could also be *Polygala scabra*.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Shale soils in valley floor.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * https://plants.jstor.org/compilation/Polygala.affinis

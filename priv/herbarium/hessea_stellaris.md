@@ -14,10 +14,14 @@ Bulbous perennial that produces a small umbrella-like inflorescence (about 10cm 
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Renosterveld slopes towards the north east of the valley.
 
-## References
+### References
 
 * https://plants.jstor.org/compilation/hessea.stellaris
+
+### Acknowledgements
+
+* Deon Palm, for sharing the location.

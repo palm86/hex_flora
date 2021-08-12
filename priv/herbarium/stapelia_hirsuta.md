@@ -17,11 +17,11 @@ Succulent with multiple short leafless bulky gray green stems. Produces a star-s
 *S. hirsuta* is a very variable species with a number of recognized variants. It is closely related to *S. grandiflora*
 which occurs in the Eastern Cape and Free State.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Robertson Karoo vegetation near the old Osplaas Railway station.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * http://pza.sanbi.org/stapelia

@@ -15,6 +15,6 @@ pink flower appears in winter. The corolla (tube) is yellow.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Shale soils of De Doorns Renosterveld Karoo vegetation. Also occurs in De Doorns Sanstone Fynbos vegetation.

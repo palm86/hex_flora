@@ -16,11 +16,11 @@ Succulent shrublet with warty stem. Pale green succulent leaves usually upright,
 
 Readily hybridizes with *T. paniculatus* when occuring together. The name *Tylecodon* is an anagram of *Cotyledon*, a closely related genus of plants.
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Occurs in De Doorns Renosterveld Karoo vegetation.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * Smith, G.F., Crouch, N.R., Figueiredo, E., Field Guide to Succulents in Southern Africa

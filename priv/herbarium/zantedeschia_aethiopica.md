@@ -14,10 +14,10 @@ Geophyte of up to 1m. Grows from rhizome. Leaves green and arrow-shaped. Flowers
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Vleis and streams.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos

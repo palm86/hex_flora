@@ -16,11 +16,11 @@ senesced.
 
 <!-- read more -->
 
-## Distribution in the Hex
+### Distribution in the Hex
 
 Sandy slopes of the South Hex Sandstone Fynbos.
 
-## References
+### References
 
 * Manning, J., 2018. Field Guide to Fynbos
 * https://www.phillipskop.co.za/flora/syncarpha-canescens
