@@ -10,7 +10,7 @@
 }
 ---
 
-Climber with opposite leaves. Pink urn-like flowers with petals closing the mouth. Fine hairs on flowers and leaves.
+Climber with opposite leaves. Pink urn-like flowers with petals closing the mouth. Fine hairs on flowers and leaves. Fruit is a red-green and horn-like (5 cm).
 
 <!-- read more -->
 
