@@ -13,7 +13,6 @@
 Annual shrublet up to 30cm. Leave elliptic and toothed. Flowers (July to October) pale magenta with darker centre.
 There are 2-4 small yellow spots below each of the two flower upper lobes. Flowers have two
 short spurs (horn-like nectar structures) that are straight and upturned. Capsules linear to oblong and falcate.
-Annual to 30 cm. Leaves ovate to elliptic, dentate, sometimes entire.
 
 <!-- read more -->
 
