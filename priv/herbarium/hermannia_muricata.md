@@ -15,7 +15,7 @@ Flowers (August to November) in clusters at end of wiry branches, yellow to oran
 
 <!-- read more -->
 
-Other possible identities for this specimen is *H. helicoidea* and *H. rigida*.
+Other possible identities for this specimen are *H. helicoidea* and *H. rigida*.
 
 ### Distribution in the Hex
 
