@@ -17,8 +17,8 @@ triangular.
 
 <!-- read more -->
 
-Dried and fermented leaves and branches of *A. linearis* is the source of rooibostee (red bush tea). Rooibostee
-is caffeine-free and rich in anti-oxidants.
+Dried and fermented leaves and branches of *A. linearis* are used to prepare rooibos tea, a caffein-free and
+anti-oxidant rich beverage that originates from the Khoi-San people.
 
 ### Distribution in the Hex
 
