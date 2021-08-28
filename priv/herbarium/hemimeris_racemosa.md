@@ -1,7 +1,7 @@
 %{
     name: "Hemimeris racemosa",
     rank: :species,
-    common_names: [],
+    common_names: ["geelgesiggie"],
     taxonomy: %{
         family: "Scrophulariaceae",
         genus: "Hemimeris",
