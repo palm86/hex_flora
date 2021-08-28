@@ -1,7 +1,7 @@
 %{
     name: "Polygala affinis",
     rank: :species,
-    common_names: ["rough false pea"],
+    common_names: ["ertjieblom"],
     taxonomy: %{
         family: "Polygalaceae",
         genus: "Polygala",
