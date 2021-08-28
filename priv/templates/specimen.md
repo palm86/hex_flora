@@ -20,4 +20,4 @@
 
 ### References
 
-*
+* Manning, J. & Goldblatt, P. 2012. Plants of the Greater Cape Floristic Region 1: the Core Cape flora, Strelitzia 29. South African National Biodiversity Institute, Pretoria.
