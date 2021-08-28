@@ -9,7 +9,7 @@
     }
 }
 ---
-Cormous geophyte of about 40cm. Leaves linear or curved. Flowers two-lipped, tepals green-yellow
+Cormous geophyte of about 40cm. Leaves linear or curved. Flowers (August to October) two-lipped, tepals green-yellow
 with purple tips, fragrant.
 
 <!-- read more -->
