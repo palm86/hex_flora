@@ -1,7 +1,7 @@
 FROM elixir:1.12-alpine AS build
 
 # install build dependencies
-RUN apk add --no-cache build-base npm git imagemagick
+RUN apk add --no-cache build-base npm git
 
 # prepare build dir
 WORKDIR /app
@@ -24,7 +24,6 @@ RUN npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
 
 COPY priv priv
 COPY assets assets
-RUN mogrify -path assets/static/images -filter Triangle -define filter:support=2 -thumbnail 1000 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip assets/static/images/*.jpg
 RUN npm run --prefix ./assets deploy
 RUN mix phx.digest
 
