@@ -1,11 +1,11 @@
 #! /usr/bin/bash
 
-set -x
+set -e
 
 for f in assets/static/unprocessed_images/*.jpg
 do
   BASENAME=$(basename $f)
-  echo "Processing $f file...($BASENAME)"
+  echo "Processing $f file..."
   # take action on each file. $f store current file name
   if [ -f assets/static/images/${BASENAME} ];
   then
