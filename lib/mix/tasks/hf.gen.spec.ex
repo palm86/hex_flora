@@ -22,6 +22,6 @@ defmodule Mix.Tasks.Hf.Gen.Spec do
       |> Enum.zip(args)
 
     rendered = EEx.eval_file("priv/templates/specimen.md", bindings)
-    File.write("priv/herbarium/#{String.downcase(bindings[:genus])}_#{bindings[:species]}.md", rendered)
+    File.write("priv/specimens/#{String.downcase(bindings[:genus])}_#{bindings[:species]}.md", rendered)
   end
 end
