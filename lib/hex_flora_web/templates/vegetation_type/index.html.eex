@@ -55,7 +55,7 @@
       <div class="row wx-auto row-cols-1 row-cols-sm-1">
       <figure class="figure col">
         <img src="<%= Routes.static_url(@conn, "/images/hex_veg.jpg") %>" class="figure-img img-thumbnail" alt="Vegetation type map">
-        <figcaption class="figure-caption">A map of the Hex River Valley with vegetation types overlaid.</figcaption>
+        <figcaption class="figure-caption">A map of the Hex River Valley with vegetation types overlaid. Source: Helme, N. A. 2007.</figcaption>
       </figure>
     </div>
 
@@ -80,6 +80,8 @@
     <h3>References</h3>
 
     <ul>
+      <li>Helme, N. A. 2007. Botanical report: Fine scale vegetation mapping in the Upper Breede River Valley. Report for CapeNature, as part of the C.A.P.E. programme.</li>
+      <li>Mucina, L., Rutherford, M.C. 2006. The vegetation of South Africa, Lesotho and Swaziland. Strelitzia 19.</li>
       <li>Manning, J., 2018. Field Guide to Fynbos</li>
       <li>https://en.wikipedia.org/wiki/Renosterveld</li>
       <li>https://en.wikipedia.org/wiki/Robertson_Karoo</li>
