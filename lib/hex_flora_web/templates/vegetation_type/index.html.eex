@@ -1,0 +1,90 @@
+
+<section class="row">
+  <article class="col">
+    <h1 class="display-4">Vegetation Types</h1>
+    <p class="lead">The Hex River Valley is a floral transition zone between Fynbos, Renosterveld
+    and Karoo vegetation types. It is also a geological transition zone between the Cape Fold
+    Mountains and the buttes (koppies) and mesas (table-like hills) of the Karoo.</p>
+
+    <div class="row wx-auto row-cols-1 row-cols-sm-3">
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/fynbos.jpg") %>" class="figure-img img-thumbnail" alt="Fynbos">
+        <figcaption class="figure-caption">A <b>Fynbos</b> landscape, featuring a common sunshine conebush (<i>Leucadendron salignum</i>).</figcaption>
+      </figure>
+
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/renosterveld.jpg") %>" class="figure-img img-thumbnail" alt="Fynbos">
+        <figcaption class="figure-caption">A <b>Renosterveld</b> landscape, featuring a renosterbos (<i>Dicerothamnus rhinocerotis</i>).</figcaption>
+      </figure>
+
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/robertson_karoo.jpg") %>" class="figure-img img-thumbnail" alt="Karoo">
+        <figcaption class="figure-caption">A <b>Karoo</b> landscape, featuring a botterboom (<i>Tylecodon paniculatus</i>).</figcaption>
+      </figure>
+    </div>
+
+    <h3>Fynbos</h3>
+
+    <p>Fynbos is a biome that is endemic to the Cape region. The word literally translates to "fine bush". Fynbos
+    species tend to be highly specialized and adapted to their habitats. They thrive in sandy, nutrient-poor,
+    acidic soils (hence the local name "Suurveld" or acidic field), and occur in winter rainfall areas. They are extremely
+    well-adapted to the dry hot summer months. They often have small, hairy leaves that allow them to reflect the sun and
+    minimize water loss. Many Fynbos species rely on fire to stimulate germination. Ants also play an important role in depositing seeds
+    underground.</p>
+
+    <h3>Renosterveld</h3>
+
+    <p>Renosterveld is a vegetation type that is strictly part of the Fynbos biome, but prefers more nutrient rich, loamy
+    soils and therefore lacks several characteristic Fynbos species such as proteas, heaths, restios, and hardleaves. Instead,
+    Renosterveld is dominated by the renosterbos, a hardy pale unpalatable shrub. Other notable species such as snowbushes,
+    karees, sand olives, and tentfigs, some of which also occur in Fynbos, accompany the renosterbos.</p>
+
+    <h3>Karoo</h3>
+
+    <p>The De Doorns Karoo (often in a mosaic with Renosterveld) is a vegetation type of the Succulent Karoo biome. It is sometimes
+    treated as synonymous with Worcester Karoo or Robertson Karoo and is endemic to the Breede River Valley. It is a winter rainfall
+    area on the rain shadow side of the Hex River Mountains receiving much less rain than Fynbos. The area is rich in succulents (aloes,
+    spurges, butterbushes, babboon cabbages, succulent geraniums), geophytes (numerous bulbous and cormous species), seasonal undergrowth
+    (daisies), and Karoobossies (kraalbushes, gumbushes and snowbushes).</p>
+
+    <h3>Vegetation types</h3>
+
+    <p>The broad Fynbos, Renosterveld, and Karoo themes are further broken down into vegetation types, a dozen or so of which flow together
+    in the Hex River Valley.</p>
+
+      <div class="row wx-auto row-cols-1 row-cols-sm-1">
+      <figure class="figure col">
+        <img src="<%= Routes.static_url(@conn, "/images/hex_veg.jpg") %>" class="figure-img img-thumbnail" alt="Vegetation type map">
+        <figcaption class="figure-caption">A map of the Hex River Valley with vegetation types overlaid.</figcaption>
+      </figure>
+    </div>
+
+    <div class="album py-5">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
+        <%= for vegetation_type <- @vegetation_types do %>
+        <div class="col">
+          <div class="card shadow-sm h-100">
+            <%=if vegetation_type.has_image? do %><img src="<%= Routes.static_url(@conn, "/images/" <> vegetation_type.id <> ".jpg") %>" alt="<%= vegetation_type.name %>"><% end %>
+
+            <div class="card-body">
+              <h5 class="card-title">
+                <%= link vegetation_type.name, to: Routes.vegetation_type_path(@conn, :show, vegetation_type)%>
+              </h5>
+            </div>
+          </div>
+        </div>
+        <% end %>
+      </div>
+    </div>
+
+    <h3>References</h3>
+
+    <ul>
+      <li>Manning, J., 2018. Field Guide to Fynbos</li>
+      <li>https://en.wikipedia.org/wiki/Renosterveld</li>
+      <li>https://en.wikipedia.org/wiki/Robertson_Karoo</li>
+      <li>http://pza.sanbi.org/vegetation (and related links)</li>
+    </ul>
+
+  </article>
+</section>

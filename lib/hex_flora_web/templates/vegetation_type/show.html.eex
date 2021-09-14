@@ -1,0 +1,15 @@
+<%= link "← All vegetation_types", to: Routes.vegetation_type_path(@conn, :index)%>
+
+<div class="mb-3">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <%= if @vegetation_type.has_image? do %><img src="<%= Routes.static_url(@conn, "/images/" <> @vegetation_type.id <> ".jpg") %>" alt="<%= @vegetation_type.name %>" class="float-start img-thumbnail"><% end %>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h1 class="card-title display-4"><%= @vegetation_type.name %></h1>
+        <p class="card-text"><%= raw @vegetation_type.body %></p>
+      </div>
+    </div>
+  </div>
+</div>

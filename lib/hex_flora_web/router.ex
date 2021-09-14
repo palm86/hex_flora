@@ -20,8 +20,8 @@ defmodule HexFloraWeb.Router do
     get "/flora-of-the-hex", PageController, :flora
     get "/about-hexflora", PageController, :about
     get "/how-to-contribute", PageController, :contribute
-    get "/specimens", SpecimenController, :index
-    get "/specimens/:id", SpecimenController, :show
+    resources "/specimens", SpecimenController, only: [:show, :index]
+    resources "/vegetation_types", VegetationTypeController, only: [:show, :index]
   end
 
   # Other scopes may use custom stacks.

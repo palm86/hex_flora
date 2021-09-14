@@ -25,7 +25,7 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
         <li class="nav-item"><a href="<%= Routes.specimen_path(@conn, :index) %>" class="nav-link <%= if "specimens" in @conn.path_info do %>active<% end %>">Specimens</a></li>
-        <li class="nav-item"><a href="<%= Routes.page_path(@conn, :flora) %>" class="nav-link <%= if @conn.private.phoenix_action == :flora do %>active<% end %>">Flora of the Hex</a></li>
+        <li class="nav-item"><a href="<%= Routes.vegetation_type_path(@conn, :index) %>" class="nav-link <%= if "vegetation_types" in @conn.path_info do %>active<% end %>">Vegetation Types</a></li>
         <li class="nav-item">
           <a href="<%= Routes.page_path(@conn, :about) %>" class="nav-link <%= if @conn.private.phoenix_action == :about do %>active<% end %>">About</a>
         </li>
