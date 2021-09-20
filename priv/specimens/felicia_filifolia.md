@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Felicia",
         species: "filifolia"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 

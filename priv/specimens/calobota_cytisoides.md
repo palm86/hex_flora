@@ -6,7 +6,8 @@
         family: "Fabaceae",
         genus: "Calobota",
         species: "cytisoides"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -18,7 +19,7 @@ and split open when dry.
 
 ### Distribution in the Hex
 
-Sand or clay in lower slopes or flats. De Doorns Renosterveld Karoo and Hex River Arid Alluvial Fynbos.
+Sand or clay in lower slopes or flats. De Doorns Renosterveld Karoo and Hex River Arid Alluvium Fynbos.
 
 ### References
 

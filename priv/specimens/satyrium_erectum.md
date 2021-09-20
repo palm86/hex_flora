@@ -6,7 +6,8 @@
         family: "Orchidaceae",
         genus: "Satyrium",
         species: "erectum"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos", "de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -18,7 +19,7 @@ flat on the ground. Bears 11 to 37 flowers in a dense raceme, ping with darker t
 
 ### Distribution in the Hex
 
-Dry sandstone, clay, or sandy flats in Hex River Arid Alluvial Fynbos and De Doorns Sandstone Fynbos.
+Dry sandstone, clay, or sandy flats in Hex River Arid Alluvium Fynbos and De Doorns Sandstone Fynbos.
 
 ### References
 

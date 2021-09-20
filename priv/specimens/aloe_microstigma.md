@@ -6,7 +6,8 @@
         family: "Asphodelaceae",
         genus: "Aloe",
         species: "microstigma"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Romulea",
         species: "minutiflora"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

@@ -6,19 +6,19 @@
         family: "Iridaceae",
         genus: "Geissorhiza",
         species: "ornithogaloides"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
-Cormous geophyte, 4–10 cm, corms oft en with a fl at base, tunics woody,
-concentric. Leaves linear. Flowers 1–few per spike, bright yellow, tepals spreading. Aug.–Oct.
-Mostly clay fl ats and lower slopes
+Cormous (swollen underground stem) geophyte to 10 cm. Corms often have a flat base and have woody, concentric tunics.
+Leaves linear. Bears one or more bright yellow flowers (August to October) with spreading tepals (combined petals and sepals).
 
 <!-- read more -->
 
 ### Distribution in the Hex
 
-*No distribution information yet.*
+Clay flats or lower slopes of Hex River Arid Alluvium Fynbos and De Doorns Renosterveld Karoo.
 
 ### References
 

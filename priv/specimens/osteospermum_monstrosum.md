@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Osteospermum",
         species: "monstrosum"
-    }
+    },
+    vegetation_type_ids: []
 }
 ---
 

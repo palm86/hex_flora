@@ -6,7 +6,8 @@
         family: "Malvaceae",
         genus: "Hermannia",
         species: "filifolia"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Perennial shrublet with grey bark. Younger branches red. Leaves strap-shaped occ
 
 ### Distribution in the Hex
 
-Rocky and sandy flats in the South Hex Fynbos vegetation type.
+Rocky and sandy flats in the Hex River Arid Alluvium Fynbos vegetation type.
 
 ### References
 

@@ -6,7 +6,8 @@
         family: "Asphodelaceae",
         genus: "Tulista",
         species: "pumila"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

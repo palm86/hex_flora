@@ -6,7 +6,8 @@
         family: "Asphodelaceae",
         genus: "Trachyandra",
         species: "falcata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 

@@ -6,7 +6,8 @@
         family: "Oxalidaceae",
         genus: "Oxalis",
         species: "purpurea"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 

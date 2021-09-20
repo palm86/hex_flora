@@ -6,7 +6,8 @@
         family: "Scrophulariaceae",
         genus: "Diascia",
         species: "sacculata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

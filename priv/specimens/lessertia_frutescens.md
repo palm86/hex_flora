@@ -6,7 +6,8 @@
         family: "Fabaceae",
         genus: "Lessertia",
         species: "frutescens"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

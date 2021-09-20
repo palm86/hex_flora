@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Babiana",
         species: "ambigua"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Small perennial (5-8 cm) with narrow leaves oftern longer than the stem. Bears f
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos vegetation.
+Sandy flats in transition between De Doorns Sandstone Fynbos and Hex River Arid Alluvium Fynbos. Also sandstone slopes in De Doorns Renosterveld Karoo.
 
 ### References
 

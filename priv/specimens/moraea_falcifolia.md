@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Moraea",
         species: "falcifolia"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
@@ -17,7 +18,7 @@ radially symmetrical with large outer tepals and claw-like inner tepals.
 
 ### Distribution in the Hex
 
-Shale soils of arid fynbos communities in the valley floor.
+Shale soils of De Doorns Renosterveld Karoo communities in the valley floor.
 
 ### References
 

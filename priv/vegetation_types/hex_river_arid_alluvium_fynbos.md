@@ -1,6 +1,6 @@
 %{
     name: "Hex River Arid Alluvium Fynbos",
-    has_image?: false
+    has_image?: true
 }
 ---
 Hex River Arid Alluvium Fynbos is a critically endangered vegetation type that is restricted to the floor of Hex River Valley, reaching as far as De Wet near Worcester. It may be considered a subtype of Breede Alluvium Fynbos. The altitude mostly ranges between 200 and 350 m, with some patches reaching higher.
@@ -14,7 +14,7 @@ The soil is alluvial deposits consisting of rounded cobbles in loamy sand over s
 The area receives 480 mm rain on average, mostly in winter. Frost infrequent. Well fed with water from mountains.
 
 ### Important Taxa
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 The riverine portions support *Metrosideros angustifolia*, *Searsia angustifolia*, *Restio paniculatus*, *Diospyros glabra* and *Freylinia lanceolata*. The areas away from the rivers support *Anthospermum spathulatum*, *Searsia dissecta*, *Seriphium* sp., *Struthiola ciliata*, *Passerina* sp., *Muraltia spinosa*, *Willdenowia incurvata*, *Helichrysum moeserianum*, *Montinia caryophyllacea*, *Protea laurifolia*, *Aspalathus rugosa*, *A. acuminata*, *A. biflora*, *Leucadendron barkerae*, *Cliffortia crenata*, *C. ruscifolia*, *Restio capensis*, *Euryops tenuissimus*, *Cephalophyllum* sp. and *Antimima* sp.
 
 ### Endemic Taxa

@@ -6,7 +6,8 @@
         family: "Lobeliaceae",
         genus: "Cyphia",
         species: "digitata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -20,7 +21,7 @@ Specimens in Hex more closely match the description of *C. polydactyla* which is
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos. Sandy slopes or clay flats in De Doorns Renosterveld Karoo (both in more Renosterveld-like and
+Sandy flats in De Doorns Sandstone Fynbos and possible Hex River Arid Alluvium Fynbos. Sandy slopes or clay flats in De Doorns Renosterveld Karoo (both in more Renosterveld-like and
 more Karoo-like vegetation).
 
 ### References

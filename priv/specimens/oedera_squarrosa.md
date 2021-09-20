@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Oedera",
         species: "squarrosa"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -18,7 +19,7 @@ and are arranged in terminal umbels. Florets are hairy and glandular. Flowers fr
 
 ### Distribution in the Hex
 
-Sand or clay slopes and flats in De Doorns Renosterveld Karoo.
+Sand or clay slopes and flats in De Doorns Renosterveld Karoo and Hex River Arid Alluvium Fynbos.
 
 ### References
 

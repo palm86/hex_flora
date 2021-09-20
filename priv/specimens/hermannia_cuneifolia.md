@@ -6,7 +6,8 @@
         family: "Malvaceae",
         genus: "Hermannia",
         species: "cuneifolia"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -23,7 +24,7 @@ both colours present on the same individual; narrowed at base with inrolled marg
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos vegetation.
+Sandy flats in De Doorns Sandstone Fynbos vegetation and possible Hex River Arid Alluvium Fynbos.
 
 ### References
 

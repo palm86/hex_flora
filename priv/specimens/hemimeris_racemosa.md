@@ -6,7 +6,8 @@
         family: "Scrophulariaceae",
         genus: "Hemimeris",
         species: "racemosa"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Annual up to 45 cm. Leaves egg-shaped and toothed. Yellow flowers (July to Octob
 
 ### Distribution in the Hex
 
-Shaded sandy flats of De Doorns Sandstone Fynbos.
+Shaded sandy flats of De Doorns Sandstone Fynbos and possible Hex River Arid Alluvium Fynbos.
 
 ### References
 

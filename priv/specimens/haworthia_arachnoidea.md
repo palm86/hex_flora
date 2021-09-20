@@ -6,7 +6,8 @@
         family: "Asphodelaceae",
         genus: "Haworthia",
         species: "arachnoidea"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

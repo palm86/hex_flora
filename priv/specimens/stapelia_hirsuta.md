@@ -6,7 +6,8 @@
         family: "Apocynaceae",
         genus: "Stapelia",
         species: "hirsuta"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Eriocephalus",
         species: "africanus"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 

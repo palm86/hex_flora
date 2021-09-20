@@ -8,6 +8,8 @@ defmodule HexFloraWeb.VegetationTypeController do
   end
 
   def show(conn, %{"id" => id}) do
-    render(conn, "show.html", vegetation_type: VegetationType.get_by_id!(id))
+    conn
+    |> assign(:specimens, HexFlora.Herbarium.Specimen.list_by_vegetation_type_id(id))
+    |> render("show.html", vegetation_type: VegetationType.get_by_id!(id))
   end
 end

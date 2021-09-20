@@ -6,7 +6,8 @@
         family: "Asphodelaceae",
         genus: "Aloe",
         species: "perfoliata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

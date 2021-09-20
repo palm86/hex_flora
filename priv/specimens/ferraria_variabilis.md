@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Ferraria",
         species: "variabilis"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -18,7 +19,7 @@ speckled markings and darker crisped margins, foul-smelling.
 
 ### Distribution in the Hex
 
-Sandy and shale flats of De Doorns Sandstone Fynbos and Hex River Arid Alluvium Fynbos.
+Sandy and shale flats of Hex River Arid Alluvium Fynbos.
 
 ### References
 

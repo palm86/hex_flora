@@ -6,7 +6,8 @@
         family: "Euphorbiaceae",
         genus: "Euphorbia",
         species: "mauritanica"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
@@ -19,7 +20,7 @@ flowers (cyathia). Each cluster comprises a central male cyathium surrounded by 
 
 ### Distribution in the Hex
 
-Sandly flats of De Doorns Sandstone Fynbos and stony clay slopes of De Doorns Renosterveld Karoo.
+Stony clay slopes of De Doorns Renosterveld Karoo, transitioning into De Doorns Sandstone Fynbos.
 
 ### References
 

@@ -6,7 +6,8 @@
         family: "Euphorbiaceae",
         genus: "Euphorbia",
         species: "tuberosa"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Stemless perennial with tuberous roots. Leaves paddle-shaped with undulate (wavy
 
 ### Distribution in the Hex
 
-Sandy flats of De Doorns Sanstone Fynbos vegetation.
+Sandy flats of Hex River Arid Alluvium Fynbos vegetation.
 
 ### References
 

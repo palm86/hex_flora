@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Euryops",
         species: "lateriflorus"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

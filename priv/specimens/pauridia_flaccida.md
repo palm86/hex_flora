@@ -6,7 +6,8 @@
         family: "Hypoxidaceae",
         genus: "Pauridia",
         species: "flaccida"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -18,7 +19,7 @@ yellow, green to brown markings on alternate petals beneath, pedicels clasped in
 
 ### Distribution in the Hex
 
-De Doorns Sandstone Fynbos and De Doorns Renosterveld vegetation. Seasonal damp flats.
+De Doorns Sandstone Fynbos and De Doorns Renosterveld vegetation. Seasonal damp flats. Possibley also found in Hex River Arid Alluvium Fynbos.
 
 ### References
 

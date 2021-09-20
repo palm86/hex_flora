@@ -6,7 +6,8 @@
         family: "Ebenaceae",
         genus: "Euclea",
         species: "undulata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

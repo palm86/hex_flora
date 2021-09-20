@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Syncarpha",
         species: "canescens"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

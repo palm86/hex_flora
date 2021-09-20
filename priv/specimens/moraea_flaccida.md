@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Moraea",
         species: "flaccida"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 

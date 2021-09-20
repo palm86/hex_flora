@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Gladiolus",
         species: "carinatus"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Cormous geophyte. Leaves linear with clear midrib. Flowers (August to September)
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos.
+Sandy flats in Hex River Arid Alluvium Fynbos.
 
 ### References
 

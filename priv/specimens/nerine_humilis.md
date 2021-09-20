@@ -6,7 +6,8 @@
         family: "Amaryllidaceae",
         genus: "Nerine",
         species: "humilis"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

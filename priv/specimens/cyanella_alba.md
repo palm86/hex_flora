@@ -6,7 +6,8 @@
         family: "Tecophilaeaceae",
         genus: "Cyanella",
         species: "alba"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

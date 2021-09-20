@@ -6,7 +6,8 @@
         family: "Asparagaceae",
         genus: "Ornithogallum",
         species: "dubium"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
@@ -17,7 +18,7 @@ Deciduous (dies back in summer) bulbous perennial shrublet. Bears 5-8 linear lea
 
 ### Distribution in the Hex
 
-Stony clay flats and slopes.
+Stony clay flats and slopes of De Doorns Renosterveld Karoo.
 
 ### References
 

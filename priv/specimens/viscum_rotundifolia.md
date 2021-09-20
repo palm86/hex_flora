@@ -6,7 +6,8 @@
         family: "Santalaceae",
         genus: "Viscum",
         species: "rotundifolia"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 

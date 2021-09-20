@@ -6,7 +6,8 @@
         family: "Orobanchaceae",
         genus: "Hyobanche",
         species: "sanguinea"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Melasphaerula",
         species: "graminea"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

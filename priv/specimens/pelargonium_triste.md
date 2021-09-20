@@ -6,7 +6,8 @@
         family: "Geraniaceae",
         genus: "Pelargonium",
         species: "triste"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

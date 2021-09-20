@@ -6,7 +6,8 @@
         family: "Fabaceae",
         genus: "Aspalathus",
         species: "linearis"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

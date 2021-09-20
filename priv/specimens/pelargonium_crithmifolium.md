@@ -6,7 +6,8 @@
         family: "Geraniaceae",
         genus: "Pelargonium",
         species: "crithmifolium"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
@@ -16,7 +17,7 @@ Succulent perennial shrub. Trunks are gray and bulky, but turn green in summer w
 
 ### Distribution in the Hex
 
-Rocky shale flats of Robertson Karoo vegetation near the old Osplaas Railway Station.
+Rocky shale flats of De Doorns Renosterveld Karoo vegetation near the old Osplaas Railway Station.
 
 ### References
 

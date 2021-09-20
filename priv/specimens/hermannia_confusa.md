@@ -6,7 +6,8 @@
         family: "Malvaceae",
         genus: "Hermannia",
         species: "confusa"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 

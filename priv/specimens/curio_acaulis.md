@@ -6,25 +6,20 @@
         family: "Asteraceae",
         genus: "Curio",
         species: "acaulis"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
-Like S. crassulifolius but fl ower heads solitary, large, and outer fl orets fe-
-male with reduced corolla. Oct.–Nov. Rocky, karroid slopes, NW, KM, SE (Ceres Karoo and
-W Karoo to Grahamstown).
-
-crassulifolius (DC.) Sch.Bip. (incl. S. aizoides (DC.) Sch.Bip., S. serpens G.D.Rowley; = Kleinia
-repens (L.) Haw.) Erect or sprawling, succulent perennial to 30 cm. Leaves in terminal tufts,
-fusiform-terete. Flower heads discoid, 1–few on elongate, sparsely bracteate, terminal peduncles,
-white, sometimes yellow, involucral bracts ± 8. Mainly Aug.–Dec. Rocky outcrops and ledges,
-NW, SW, KM, LB, SE (Cedarberg to Uitenhage).•
+Upright or sprawling perennial leaf succulent up to 30 cm. Cylindrical to spindle-shaped grey-green
+leaves in terminals tufts. Bears a solitary discoid (no ray florets) yellow flowerhead (October to November).
+The outer florets are female.
 
 <!-- read more -->
 
 ### Distribution in the Hex
 
-*No distribution information yet.*
+Rocky karroid slopes of De Doorns Renosterveld Karoo.
 
 ### References
 

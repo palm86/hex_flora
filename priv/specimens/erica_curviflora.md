@@ -6,7 +6,8 @@
         family: "Ericaceae",
         genus: "Erica",
         species: "curviflora"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

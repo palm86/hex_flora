@@ -6,7 +6,8 @@
         family: "Proteaceae",
         genus: "Protea",
         species: "laurifolia"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -17,7 +18,7 @@ in feathery white and black tip.
 
 ### Distribution in the Hex
 
-Lower sandy slopes of the South Hex Sandstone Fynbos and Renosterveld vegetation types.
+Sandy slopes and flats of the De Doorns Sandstone Fynbos, Hex River Arid Alluvium Fynbos and less commonly in Renosterveld vegetation types.
 
 ### References
 

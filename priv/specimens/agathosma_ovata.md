@@ -6,7 +6,8 @@
         family: "Rutaceae",
         genus: "Agathosma",
         species: "ovata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

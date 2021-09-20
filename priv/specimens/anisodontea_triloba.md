@@ -6,7 +6,8 @@
         family: "Malvaceae",
         genus: "Anisodontea",
         species: "triloba"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

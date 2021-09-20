@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Ursinia",
         species: "chrysanthemoides"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Creeping annual or perennial with fine bipinnate leaves. Bears radiate flowerhea
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos vegetation.
+Sandy flats in Hex River Arid Alluvium Fynbos vegetation.
 
 ### References
 

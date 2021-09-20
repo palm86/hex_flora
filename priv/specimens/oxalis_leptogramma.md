@@ -6,7 +6,8 @@
         family: "Oxalidaceae",
         genus: "Oxalis",
         species: "leptogramma"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

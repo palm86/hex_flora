@@ -6,7 +6,8 @@
         family: "Crassulaceae",
         genus: "Tylecodon",
         species: "wallichii"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

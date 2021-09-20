@@ -6,7 +6,8 @@
         family: "Apocynaceae",
         genus: "Microloma",
         species: "sagittatum"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 

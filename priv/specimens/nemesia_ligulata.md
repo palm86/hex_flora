@@ -6,7 +6,8 @@
         family: "Scrophulariaceae",
         genus: "Nemesia",
         species: "ligulata"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -17,7 +18,7 @@ a cluster (raceme), palate with 2 velvety yellow bosses, upper lobes linear and 
 
 ### Distribution in the Hex
 
-Sandy slopes and flats of De Doorns Sanstone Fynbos.
+Sandy slopes and flats of Hex River Arid Alluvium Fynbos.
 
 ### References
 

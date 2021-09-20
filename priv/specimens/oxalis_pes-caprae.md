@@ -6,7 +6,8 @@
         family: "Oxalidaceae",
         genus: "Oxalis",
         species: "pes-caprae"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

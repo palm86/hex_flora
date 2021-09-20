@@ -6,7 +6,8 @@
         family: "Aizoaceae",
         genus: "Ruschia",
         species: "multiflora"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 
@@ -18,5 +19,5 @@ and bursts open. The dried fruit capsules remain on the plant throughout winter.
 
 ### Distribution in the Hex
 
-Renosterveld and arid fynbos vegetations types towards the north east of the value. Probably fairly common throughout
+De Doorns Renosterveld Karoo vegetations types towards the north east of the valley. Probably fairly common throughout
 the valley floor.

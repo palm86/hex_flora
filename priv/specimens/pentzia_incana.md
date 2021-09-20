@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Pentzia",
         species: "incana"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

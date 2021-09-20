@@ -6,7 +6,8 @@
         family: "Amaryllidaceae",
         genus: "Brunsvigia",
         species: "orientalis"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ The candelabra lily is a bulbous perennial that sprouts a large spherical and sh
 
 ### Distribution in the Hex
 
-The species grows in sandy kloofs and foothills of the Hex River Mountains in the South Hex Sandstone Fynbos vegetation zone.
+The species grows in sandy kloofs and foothills of the Hex River Mountains in the De Doorns Sandstone Fynbos vegetation type.
 
 ### References
 

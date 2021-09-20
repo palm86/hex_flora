@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Gladiolus",
         species: "venustus"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 Cormous geophyte of about 40cm. Leaves linear or curved. Flowers (August to October) two-lipped, tepals green-yellow

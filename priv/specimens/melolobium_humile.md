@@ -6,7 +6,8 @@
         family: "Fabaceae",
         genus: "Melolobium",
         species: "humile"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Perennial shrublet to 40 cm. Branching near base (divaricate). No spines (unarme
 
 ### Distribution in the Hex
 
-Sandy flats in De Doorns Sandstone Fynbos. Clay flats in De Doorns Renosterveld in upper valley.
+Sandy flats in lower De Doorns Sandstone Fynbos. Clay flats in De Doorns Renosterveld in upper valley.
 
 ### References
 

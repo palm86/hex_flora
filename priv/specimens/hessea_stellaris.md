@@ -6,7 +6,8 @@
         family: "Amaryllidaceae",
         genus: "Hessea",
         species: "stellaris"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

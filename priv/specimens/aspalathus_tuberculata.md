@@ -6,7 +6,8 @@
         family: "Fabaceae",
         genus: "Aspalathus",
         species: "tuberculata"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 }
 ---
 

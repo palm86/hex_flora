@@ -6,7 +6,8 @@
         family: "Lamiaceae",
         genus: "Salvia",
         species: "chamelaeagnea"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -17,4 +18,4 @@ and white lower lip in burgundy calyx. Carpenter bees are notable pollinators.
 
 ### Distribution in the Hex
 
-The species grows in sandy kloofs and foothills of the Hex River Mountains to the north west of the valley in the South Hex Sandstone Fynbos vegetation zone.
+The species grows in sandy flats of the Hex River Arid Alluvium Fynbos to the north west of the valley.

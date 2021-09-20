@@ -6,7 +6,8 @@
         family: "Polygalaceae",
         genus: "Muraltia",
         species: "spinosa"
-    }
+    },
+    vegetation_type_ids: ["hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Much-branched perennial gray green shrub. Branches end in a spine. Leaves are na
 
 ### Distribution in the Hex
 
-Sandy flats and kloofs in the South Hex Sandstone Fynbos vegetation type.
+Sandy flats and kloofs in the Hex River Arid Alluvium Fynbos vegetation type.
 
 ### References
 

@@ -6,7 +6,8 @@
         family: "Crassulaceae",
         genus: "Tylecodon",
         species: "paniculatus"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_sandstone_fynbos"]
 }
 ---
 Succulent shrub resembling a small tree with stout butter-coloured peeling stems. Up to 1.5 m. Leaves dry and fall off when in flower (November

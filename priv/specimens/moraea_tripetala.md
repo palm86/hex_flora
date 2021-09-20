@@ -6,7 +6,8 @@
         family: "Iridaceae",
         genus: "Moraea",
         species: "tripetala"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

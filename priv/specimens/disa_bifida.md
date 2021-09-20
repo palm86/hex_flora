@@ -6,7 +6,8 @@
         family: "Orchidaceae",
         genus: "Disa",
         species: "bifida"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 

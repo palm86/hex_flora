@@ -6,7 +6,8 @@
         family: "Araceae",
         genus: "Zantedeschia",
         species: "aethiopica"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "hex_river_arid_alluvium_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Geophyte of up to 1m. Grows from rhizome. Leaves green and arrow-shaped. Flowers
 
 ### Distribution in the Hex
 
-Vleis and streams.
+Vleis and streams in De Doorns Renosterveld Karoo and Hex River Arid Alluvium Fynbos.
 
 ### References
 

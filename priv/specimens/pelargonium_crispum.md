@@ -6,7 +6,8 @@
         family: "Geraniaceae",
         genus: "Pelargonium",
         species: "crispum"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -16,4 +17,4 @@ Perennial shrub with strong lemon scent. Leaves small and curled. Flowers have t
 
 ### Distribution in the Hex
 
-Sandy flats and slopes of the Matroosberg mountains in the South Hex Sandstone Fynbos vegetation zone.
+Sandy flats and slopes of the Matroosberg mountains in the De Doorns Sandstone Fynbos vegetation zone.

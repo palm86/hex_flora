@@ -6,7 +6,8 @@
         family: "Asteraceae",
         genus: "Othonna",
         species: "parviflora"
-    }
+    },
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -16,7 +17,7 @@ Shrub of up to 2 meters tall. Leaves are leathery, lance-shaped and toothed, bea
 
 ### Distribution in the Hex
 
-The species grows in sandy kloofs and foothills of the Hex River Mountains to the north west of the valley in the South Hex Sandstone Fynbos vegetation zone.
+The species grows in sandy kloofs and foothills of the Hex River Mountains to the north west of the valley in the De Doorns Sandstone Fynbos vegetation zone.
 
 ### References
 
