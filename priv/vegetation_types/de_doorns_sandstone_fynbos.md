@@ -6,7 +6,7 @@
 
 De Doorns Sandstone Fynbos is a transitional vegetation type that stretches from Hexrivier in the south west along the lower southern slopes of the Hex River Mountains to the base of the Hex River Pass in the north east. It joins the South Hex Sandstone Fynbos, which starts at about 500 m, and the Hex River Arid Alluvial Fynbos, mostly replaced by vines, in the valley floor.
 
-The terrain is less rugged and more gradual than South Hex and includes occational flats.
+The terrain is less rugged and more gradual than South Hex and includes occasional elevated flats.
 
 The vegetation shares similarities to South Hex, but contains elements that are often more common in Renosterveld than Fynbos. This is likely due to a loam component that remains from a weathered shale band.
 
