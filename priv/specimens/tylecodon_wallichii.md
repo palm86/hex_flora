@@ -7,7 +7,7 @@
         genus: "Tylecodon",
         species: "wallichii"
     },
-    vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
+    vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_arid_renosterveld"]
 }
 ---
 
