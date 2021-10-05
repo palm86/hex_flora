@@ -6,7 +6,8 @@
         family: "<%= family %>",
         genus: "<%= genus %>",
         species: "<%= species %>"
-    }
+    },
+    vegetation_type_ids: []
 }
 ---
 
