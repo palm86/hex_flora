@@ -11,15 +11,13 @@
 }
 ---
 
-Cormous geophyte, 3–6 cm, corm with a spathulate basal projection, basal ridge
-fi brous. Basal leaves several. Flowers tiny, to 15 mm long, pale mauve with yellowish cup, anthers
-± 2 mm, inner bracts conspicuously spotted with brown. July–Sept.
+Cormous geophyte of 3 to 6 cm. The corm has a spoon-shaped basal projection. Several leavea emerge from the base. The flowers (July to Sept) are small, pale mauve with yellow cup.
 
 <!-- read more -->
 
 ### Distribution in the Hex
 
-*No distribution information yet.*
+Flats of De Doorns Renosterveld Karoo.
 
 ### References
 

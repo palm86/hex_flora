@@ -15,6 +15,8 @@ Erect or spreading, dense shrub up to 1.2 m. Thorny. Leaves simple and elliptic-
 
 <!-- read more -->
 
+While *Disa uniflora* is a symbolic flower in the Hex River Valley, *A. spinosa* is much more special in that it only grows in the Renosterveld vegetation types of the Hex River Valley and Pass, extending to Witteberg.
+
 ### Distribution in the Hex
 
 Renosterveld flats and slopes.

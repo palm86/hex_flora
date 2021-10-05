@@ -12,15 +12,15 @@ Fynbos and Karoo elements are largely absent. A special floristic feature is the
 
 ### Important Taxa
 
-*Dicerothamnus rhinocerotis*, *Euryops tenuissimus*, *Dodonaea viscosa angustifolia*, *Anginon swellendamense*, *Vachellia karoo*, *Tylecodon wallichii*, *Ruschia* sp., *Aspalathus lactea lactea*, *Eriocephalus africanus*, *Anthospermum spathulatum*, *Drimia* sp. and *Aizoon africanus*. Bulbs are common, and may include some rarer species.
+*Amphithalea spinosa*, *Dicerothamnus rhinocerotis*, *Euryops tenuissimus*, *Dodonaea viscosa angustifolia*, *Anginon swellendamense*, *Vachellia karoo*, *Tylecodon wallichii*, *Ruschia* sp., *Aspalathus lactea lactea*, *Eriocephalus africanus*, *Anthospermum spathulatum*, *Drimia* sp. and *Aizoon africanus*. Bulbs are common, and may include some rarer species.
 
 ### Endemic Taxa
 
-*Amphithalea spinosa*.
+Unknown.
 
 ### Conservation
 
-Critically endangered, but partially conserved in the Rietvlei private nature reserve. Threatened by a nearby Eucalyptus (gum tree) forest and by patches of *Acacia saligna* (Port Jackson willow).
+Critically endangered, but partially conserved in the Rietvlei private nature reserve. Threatened by a nearby Eucalyptus (gum tree) forest and by patches of *Acacia saligna* (Port Jackson willow). Large parts replaced by vines.
 
 ### References
 
