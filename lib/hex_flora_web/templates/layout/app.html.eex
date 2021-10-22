@@ -45,10 +45,10 @@
     <main role="main" class="container h-auto" style="padding-top: 60px; padding-bottom: 104px;">
       <%= @inner_content %>
     </main>
-    <footer class="footer mt-auto py-3 bg-light fixed-bottom">
+    <%#footer class="footer mt-auto py-3 bg-light fixed-bottom">
       <div class="container text-center">
         <span class="text-muted">Licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
       </div>
-    </footer>
+    </footer %>
   </body>
 </html>

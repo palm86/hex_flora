@@ -20,10 +20,11 @@
         <h1 class="display-4" style="font-family: 'New Tegomin', serif;">HexFlora</h1>
         <div class="col-lg-6 mx-auto">
           <p class="lead mb-4">HexFlora is an online Herbarium, dedicated to the flora of the Hex River Valley.
-          Browse through all the specimens or read more about us.</p>
+          Browse through the specimens and vegetation types or read more about the project.</p>
           <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="<%= Routes.specimen_path(@conn, :index) %>">Browse specimens</a>
-            <a type="button" class="btn btn-outline-secondary btn-lg px-4" href="<%= Routes.page_path(@conn, :about) %>">Read more</a>
+            <a class="btn btn-outline-secondary btn-lg px-4 me-sm-3" href="<%= Routes.vegetation_type_path(@conn, :index) %>">Browse vegetation types</a>
+            <a class="btn btn-outline-secondary btn-lg px-4" href="<%= Routes.page_path(@conn, :about) %>">Read more</a>
           </div>
         </div>
       </div>
@@ -32,11 +33,11 @@
 
 
 
-<footer class="footer mt-auto py-3 bg-light">
+<%#footer class="footer mt-auto py-3 bg-light">
   <div class="container text-center">
     <span class="text-muted">Please report issues <a href="https://github.com/palm86/hex_flora/issues/new">here</a>. This content is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
   </div>
-</footer>
+</footer %>
 </body>
 
 </html>
