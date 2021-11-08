@@ -1,13 +1,13 @@
 %{
     name: "Utricularia bisquamata",
     rank: :species,
-    common_names: ["bladderwort"],
+    common_names: ["blasieskruid"],
     taxonomy: %{
         family: "Lentibulariaceae",
         genus: "Utricularia",
         species: "bisquamata"
     },
-    vegetation_type_ids: ["south_hex_sandstone_fynbos"]
+    vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 ---
 
@@ -20,7 +20,7 @@ Species of this genus are unique in possessing underground bladder trap that cap
 
 ### Distribution in the Hex
 
-Acidic peat moss in mountain streams of South Hex Sandstone Fynbos.
+Acidic peat moss in mountain streams of De Doorns Sandstone Fynbos.
 
 ### References
 
