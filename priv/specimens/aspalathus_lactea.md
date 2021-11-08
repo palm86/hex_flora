@@ -1,11 +1,11 @@
 %{
-    name: "Aspalathus tuberculata",
+    name: "Aspalathus lactea",
     rank: :species,
-    common_names: ["\"warty Capegorse\""],
+    common_names: [],
     taxonomy: %{
         family: "Fabaceae",
         genus: "Aspalathus",
-        species: "tuberculata"
+        species: "lactea"
     },
     vegetation_type_ids: ["de_doorns_renosterveld_karoo", "de_doorns_arid_renosterveld"]
 }
