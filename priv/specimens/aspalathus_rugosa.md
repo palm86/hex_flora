@@ -11,7 +11,7 @@
 }
 ---
 
-Shrub to 1.5 m. Leaves trifoliolate. Leaflets linear to lance-shaped with sharper end towards base;
+Shrub to 1.5 m. Leaves trifoliolate; stalkless. Leaflets linear to lance-shaped with sharper end towards base;
 flat, distinctly veined and finely hairy. Flowers (November to January) in short terminal racemes; bright
 yellow and pale/silky on the back. Back of standard and keel silky. Calyx bell-shaped with triangular
 lobes.
