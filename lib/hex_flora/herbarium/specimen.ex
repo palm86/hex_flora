@@ -1,7 +1,7 @@
 defmodule HexFlora.Herbarium.Specimen do
   defmodule Builder do
     @enforce_keys [:id, :name, :rank, :taxonomy, :body, :description]
-    defstruct [:id, :name, :rank, :taxonomy, :body, :description, vegetation_type_ids: [], common_names: []]
+    defstruct [:id, :name, :rank, :taxonomy, :body, :description, vegetation_type_ids: [], common_names: [], local_names: []]
 
     def build(filename, attrs, body) do
       id = filename |> Path.basename() |> Path.rootname()
