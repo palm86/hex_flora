@@ -17,7 +17,7 @@ are cream-coloured and grouped in upside down umbels. The fruit are egg-shaped w
 
 <!-- read more -->
 
-*G. fruticosus* is very similar to *G. physocarpus* which has spherical fruit.
+*G. fruticosus* is very similar to the tropical African alien species *G. physocarpus* which has spherical fruit.
 
 ### Distribution in the Hex
 
