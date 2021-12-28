@@ -33,16 +33,18 @@ defmodule HexFlora.MixProject do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      {:phoenix, "~> 1.5.3"},
-      {:phoenix_html, "~> 2.11"},
+      {:phoenix, "~> 1.6.0"},
+      {:phoenix_html, "~> 3.0.4"},
       {:phoenix_live_reload, "~> 1.2", only: :dev},
-      {:phoenix_live_dashboard, "~> 0.2.0"},
-      {:telemetry_metrics, "~> 0.4"},
-      {:telemetry_poller, "~> 0.4"},
+      {:phoenix_live_dashboard, "~> 0.5"},
+      {:telemetry_metrics, "~> 0.6"},
+      {:telemetry_poller, "~> 0.5"},
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:nimble_publisher, "~> 0.1.1"}
+      {:nimble_publisher, "~> 0.1.1"},
+      {:esbuild, "~> 0.2", runtime: Mix.env() == :dev},
+      {:dart_sass, "~> 0.2", runtime: Mix.env() == :dev}
     ]
   end
 
@@ -54,7 +56,13 @@ defmodule HexFlora.MixProject do
   # See the documentation for `Mix` for more info on aliases.
   defp aliases do
     [
-      setup: ["deps.get", "cmd npm install --prefix assets"]
+      setup: ["deps.get"],
+      "assets.deploy": [
+        "esbuild default --minify",
+        # "sass default --no-source-map --style=compressed",
+        "sass default",
+        "phx.digest"
+      ]
     ]
   end
 end

@@ -1,7 +1,12 @@
 FROM elixir:1.12-alpine AS build
 
 # install build dependencies
-RUN apk add --no-cache build-base npm git python3
+RUN apk add --no-cache build-base git
+
+# add glibc in order to use dart-sass on alpine linux
+RUN wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub
+RUN wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.34-r0/glibc-2.34-r0.apk
+RUN apk add glibc-2.34-r0.apk
 
 # prepare build dir
 WORKDIR /app
@@ -15,23 +20,23 @@ ENV MIX_ENV=prod
 
 # install mix dependencies
 COPY mix.exs mix.lock ./
-COPY config config
-RUN mix do deps.get, deps.compile
+RUN mix deps.get --only prod
 
-# build assets
-COPY assets/package.json assets/package-lock.json ./assets/
-RUN npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
+COPY config/config.exs config/prod.exs config/
+RUN mix deps.compile
 
 COPY priv priv
 COPY assets assets
-RUN npm run --prefix ./assets deploy
-RUN mix phx.digest
+RUN mix assets.deploy
 
 # compile and build release
 COPY lib lib
+RUN mix compile
+
 # uncomment COPY if rel/ exists
 COPY rel rel
-RUN mix do compile, release
+COPY config/runtime.exs config/
+RUN mix release
 
 # prepare release image
 FROM alpine:3.9 AS app
