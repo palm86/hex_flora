@@ -58,9 +58,8 @@ defmodule HexFlora.MixProject do
     [
       setup: ["deps.get"],
       "assets.deploy": [
-        "esbuild default --minify",
-        # "sass default --no-source-map --style=compressed",
-        "sass default",
+        "esbuild default --minify --loader:.jpg=file",
+        "sass default --no-source-map --style=compressed",
         "phx.digest"
       ]
     ]

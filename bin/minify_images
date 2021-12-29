@@ -7,11 +7,11 @@ do
   BASENAME=$(basename $f)
   echo "Processing $f file..."
   # take action on each file. $f store current file name
-  if [ -f assets/static/images/${BASENAME} ];
+  if [ -f priv/static/images/${BASENAME} ];
   then
     echo "..skipping"
   else
     echo "...processing"
-    convert assets/static/unprocessed_images/${BASENAME} -filter Triangle -define filter:support=2 -thumbnail 1000 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip assets/static/images/${BASENAME}
+    convert assets/static/unprocessed_images/${BASENAME} -filter Triangle -define filter:support=2 -thumbnail 1000 -unsharp 0.25x0.25+8+0.065 -dither None -posterize 136 -quality 82 -define jpeg:fancy-upsampling=off -define png:compression-filter=5 -define png:compression-level=9 -define png:compression-strategy=1 -define png:exclude-chunk=all -interlace none -colorspace sRGB -strip priv/static/images/${BASENAME}
   fi
 done
