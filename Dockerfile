@@ -1,7 +1,7 @@
 FROM elixir:1.12-alpine AS build
 
 # install build dependencies
-RUN apk add --no-cache build-base git
+RUN apk add --no-cache build-base git npm
 
 # add glibc in order to use dart-sass on alpine linux
 RUN wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub
@@ -24,6 +24,10 @@ RUN mix deps.get --only prod
 
 COPY config/config.exs config/prod.exs config/
 RUN mix deps.compile
+
+# build assets
+COPY assets/package.json assets/package-lock.json ./assets/
+RUN npm --prefix ./assets ci --progress=false --no-audit --loglevel=error
 
 COPY priv priv
 COPY assets assets
