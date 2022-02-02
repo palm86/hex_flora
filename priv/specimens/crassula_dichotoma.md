@@ -17,7 +17,7 @@ Wiry annual plant with stems up to 20cm. The leaves are opposite, almost cylidri
 
 ### Distribution in the Hex
 
-Sandy flat of Hex River Arid Alluvium Fynbos.
+Sandy flats of Hex River Arid Alluvium Fynbos.
 
 ### References
 
