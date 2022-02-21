@@ -1,6 +1,7 @@
 %{
     name: "Hex River Arid Alluvium Fynbos",
-    has_image?: true
+    has_image?: true,
+    public?: true
 }
 ---
 Hex River Arid Alluvium Fynbos is a critically endangered vegetation type that is restricted to the floor of Hex River Valley, reaching as far as De Wet near Worcester. It may be considered a subtype of Breede Alluvium Fynbos. The altitude mostly ranges between 200 and 350 m, with some patches reaching higher.

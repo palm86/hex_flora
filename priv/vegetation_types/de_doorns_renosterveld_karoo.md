@@ -1,6 +1,7 @@
 %{
     name: "De Doorns Renosterveld Karoo",
-    has_image?: true
+    has_image?: true,
+    public?: true
 }
 ---
 

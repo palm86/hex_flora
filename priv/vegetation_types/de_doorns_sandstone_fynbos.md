@@ -1,6 +1,7 @@
 %{
     name: "De Doorns Sandstone Fynbos",
-    has_image?: true
+    has_image?: true,
+    public?: true
 }
 ---
 

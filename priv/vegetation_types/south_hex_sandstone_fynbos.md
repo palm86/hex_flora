@@ -1,6 +1,7 @@
 %{
     name: "South Hex Sandstone Fynbos",
-    has_image?: false
+    has_image?: false,
+    public?: false
 }
 ---
 

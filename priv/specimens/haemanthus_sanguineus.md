@@ -1,7 +1,7 @@
 %{
     name: "Haemanthus sanguineus",
     rank: :species,
-    common_names: ["velskoenblaar],
+    common_names: ["velskoenblaar"],
     taxonomy: %{
         family: "Amaryllidaceae",
         genus: "Haemanthus",

@@ -1,6 +1,7 @@
 %{
     name: "De Doorns Arid Renosterveld",
-    has_image?: true
+    has_image?: true,
+    public?: true
 }
 ---
 

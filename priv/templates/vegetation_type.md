@@ -1,6 +1,7 @@
 %{
     name: "<%= name %>",
-    has_image?: false
+    has_image?: false,
+    public?: false
 }
 ---
 
