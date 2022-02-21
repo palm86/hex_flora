@@ -5,7 +5,7 @@
 }
 ---
 
-The De Doorns Renosterveld Karoo vegetation type is located in the north eastern part of the Hex River Valley, ranging from the old Osplaas Railway Station to the Hex River Pass. It is for the most part indistinguishable from the Worcester Renosterveld Karoo or Robertson Karoo units, but supports at least one local endemic, *Amphithalea spinosa*, and *Vachellia karoo* may be present.
+The De Doorns Renosterveld Karoo vegetation type is located in the north eastern part of the Hex River Valley, ranging from the old Osplaas Railway Station to the Hex River Pass. It is for the most part indistinguishable from the Worcester Renosterveld Karoo or Robertson Karoo units, but supports at least one local endemic, *Amphithalea spinosa*, and *Vachellia karroo* may be present.
 
 The terrain is characterized by numerous small buttes (koppies) and mesas (tafelberge).
 
@@ -19,7 +19,7 @@ Winter rainfall with occasional summer thunderstorms. Relatively dry.
 
 ### Endemic Taxa
 
-Unknown for the most part. *Amphitalea spinosa* is shared with only De Doorns Arid Renosterveld. Other outliers (not endemic, but unusual for this unit) include *Cyanella alba* and *Stachys rugosa*.
+Unknown for the most part. *Amphitalea spinosa* is shared with only De Doorns Arid Renosterveld. Other outliers (not endemic, but unusual for this unit) include *Cyanella alba minor* and *Stachys rugosa*.
 
 ### Conservation
 
