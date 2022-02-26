@@ -1,7 +1,7 @@
 %{
     name: "Pteronia fasciculata",
     rank: :species,
-    common_names: [],
+    common_names: ["kambos"],
     taxonomy: %{
         family: "Asteraceae",
         genus: "Pteronia",
