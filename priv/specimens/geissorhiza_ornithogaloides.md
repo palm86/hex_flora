@@ -1,7 +1,7 @@
 %{
     name: "Geissorhiza ornithogaloides",
     rank: :species,
-    common_names: [],
+    common_names: ["sysie"],
     taxonomy: %{
         family: "Iridaceae",
         genus: "Geissorhiza",
