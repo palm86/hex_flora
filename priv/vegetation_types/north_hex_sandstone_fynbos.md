@@ -66,11 +66,11 @@ nata, Zyrphelis pilosella. Herbs: Edmondia
 fasciculata, Ursinia sericea. Geophytic
 Herb: Ornithogalum esterhuyseniae.
 Graminoids: Askidiosperma capitatum,
-Calopsis marlothii, Elegia ﬁlacea, Ficinia
+Calopsis marlothii, Elegia filacea, Ficinia
 Climate MAP 300–2 300 mm (mean: 955 mm), peaking mark-
-gydomontana, Ischyrolepis laniger, Pentaschistis ampla, P. colo-
+gydomontana, Ischyrolepis laniger, Pentaschistis ampla, P. colorata, P. rosea subsp. purpurascens.
+
 edly May to August. Snow regular in winter. Southeasterly
-rata, P. rosea subsp. purpurascens.
 
 Endemic Taxa Low Shrubs: Erica atrovinosa, E. cereris,
 Lachnaea funicaulis.
