@@ -2,6 +2,16 @@
 
 ## Quick start
 
+Install `asdf` version manager from https://asdf-vm.com/guide/getting-started.html#_1-install-dependencies.
+
+As well as the plugins for Erlang and Elixir:
+
+```
+asdf plugin install erlang
+asdf plugin install elixir
+asdf install
+```
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
