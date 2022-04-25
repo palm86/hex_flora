@@ -10,6 +10,7 @@ import Config
 # Configures the endpoint
 config :hex_flora, HexFloraWeb.Endpoint,
   url: [host: "localhost"],
+  secret_key_base: System.get_env("MYAPP_SECRET_KEY_BASE"),
   render_errors: [view: HexFloraWeb.ErrorView, accepts: ~w(html json), layout: false],
   pubsub_server: HexFlora.PubSub,
   live_view: [signing_salt: "bTsGrX0l"]

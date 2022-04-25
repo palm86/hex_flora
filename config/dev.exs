@@ -11,6 +11,7 @@ config :hex_flora, HexFloraWeb.Endpoint,
   debug_errors: true,
   code_reloader: true,
   check_origin: false,
+  secret_key_base: "h6IWoOTHIWORkft/0KcjCrHkDrZ7W8Q/z5ziZL1z3SaLsF861/qRHbby6DKSc4Wc",
   watchers: [
     esbuild: {Esbuild, :install_and_run, [:default, ~w(--sourcemap=inline --watch --loader:.jpg=file)]},
     sass: {

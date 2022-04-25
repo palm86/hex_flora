@@ -2,9 +2,10 @@ defmodule HexFloraWeb.Router do
   use HexFloraWeb, :router
 
   pipeline :browser do
+    plug :put_root_layout, {HexFloraWeb.LayoutView, :root}
     plug :accepts, ["html"]
     plug :fetch_session
-    plug :fetch_flash
+    plug :fetch_live_flash
     plug :protect_from_forgery
     plug :put_secure_browser_headers
   end

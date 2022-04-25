@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>HexFlora</title>
-    <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/assets/app.css") %>"/>
+    <link phx-track-static rel="stylesheet" href={Routes.static_path(@conn, "/assets/app.css")}/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap" rel="stylesheet">
-    <script defer type="text/javascript" src="<%= Routes.static_path(@conn, "/assets/app.js") %>"></script>
+    <%= csrf_meta_tag() %>
+    <script phx-track-static defer type="text/javascript" src={Routes.static_path(@conn, "/assets/app.js")}></script>
   </head>
   <body class="d-flex flex-column h-100 overflow-auto">
     <div class="container">
@@ -24,19 +25,15 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
-        <li class="nav-item"><a href="<%= Routes.specimen_path(@conn, :index) %>" class="nav-link <%= if "specimens" in @conn.path_info do %>active<% end %>">Specimens</a></li>
-        <li class="nav-item"><a href="<%= Routes.vegetation_type_path(@conn, :index) %>" class="nav-link <%= if "vegetation_types" in @conn.path_info do %>active<% end %>">Vegetation Types</a></li>
+        <li class="nav-item"><a href={Routes.specimen_path(@conn, :index)} class={["nav-link"] ++ [(if "specimens" in @conn.path_info, do: "active", else: "")]}>Specimens</a></li>
+        <li class="nav-item"><a href={Routes.vegetation_type_path(@conn, :index)} class={["nav-link"] ++ [(if "vegetation_types" in @conn.path_info, do: "active", else: "")]}>Vegetation Types</a></li>
         <li class="nav-item">
-          <a href="<%= Routes.page_path(@conn, :about) %>" class="nav-link <%= if @conn.private.phoenix_action == :about do %>active<% end %>">About</a>
+          <a href={Routes.page_path(@conn, :about)} class={["nav-link"] ++ [(if @conn.private.phoenix_action == :about, do: "active", else: "")]}>About</a>
         </li>
         <li class="nav-item">
-          <a href="<%= Routes.page_path(@conn, :contribute) %>" class="nav-link <%= if @conn.private.phoenix_action == :contribute do %>active<% end %>">Contribute</a>
+          <a href={Routes.page_path(@conn, :contribute)} class={["nav-link"] ++ [(if @conn.private.phoenix_action == :contribute, do: "active", else: "")]}>Contribute</a>
         </li>
       </ul>
-        <%# form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form %>
       </div>
     </div>
   </nav>
@@ -45,10 +42,5 @@
     <main role="main" class="container h-auto" style="padding-top: 60px; padding-bottom: 104px;">
       <%= @inner_content %>
     </main>
-    <%#footer class="footer mt-auto py-3 bg-light fixed-bottom">
-      <div class="container text-center">
-        <span class="text-muted">Licensed under the <a href="https://creativecommons.org/licenses/by/3.0/za">Creative Commons Attribution 3.0 (South Africa) License</a>.</span>
-      </div>
-    </footer %>
   </body>
 </html>

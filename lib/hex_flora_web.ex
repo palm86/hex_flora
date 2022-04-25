@@ -33,11 +33,30 @@ defmodule HexFloraWeb do
         root: "lib/hex_flora_web/templates",
         namespace: HexFloraWeb
 
+      import Phoenix.LiveView.Helpers
+
       # Import convenience functions from controllers
       import Phoenix.Controller,
         only: [get_flash: 1, get_flash: 2, view_module: 1, view_template: 1]
 
       # Include shared imports and aliases for views
+      unquote(view_helpers())
+    end
+  end
+
+  def live_view do
+    quote do
+      use Phoenix.LiveView,
+        layout: {HexFloraWeb.LayoutView, "live.html"}
+
+      unquote(view_helpers())
+    end
+  end
+
+  def live_component do
+    quote do
+      use Phoenix.LiveComponent
+
       unquote(view_helpers())
     end
   end
@@ -48,6 +67,7 @@ defmodule HexFloraWeb do
 
       import Plug.Conn
       import Phoenix.Controller
+      import Phoenix.LiveView.Router
     end
   end
 
@@ -62,6 +82,9 @@ defmodule HexFloraWeb do
     quote do
       # Use all HTML functionality (forms, tags, etc)
       use Phoenix.HTML
+
+      # Import LiveView helpers (live_render, live_component, live_patch, etc)
+      import Phoenix.LiveView.Helpers
 
       # Import basic rendering functionality (render, render_layout, etc)
       import Phoenix.View
