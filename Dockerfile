@@ -46,6 +46,10 @@ RUN mix release
 FROM alpine:3.9 AS app
 RUN apk add --no-cache openssl ncurses-libs build-base
 
+# Appended by flyctl
+ENV ECTO_IPV6 true
+ENV ERL_AFLAGS "-proto_dist inet6_tcp"
+
 WORKDIR /app
 
 RUN chown nobody:nobody /app
