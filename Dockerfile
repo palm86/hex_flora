@@ -43,7 +43,7 @@ COPY config/runtime.exs config/
 RUN mix release
 
 # prepare release image
-FROM alpine:3.9 AS app
+FROM alpine:3.16 AS app
 RUN apk add --no-cache openssl ncurses-libs build-base
 
 # Appended by flyctl

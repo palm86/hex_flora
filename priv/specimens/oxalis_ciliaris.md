@@ -12,8 +12,6 @@ vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 
 ---
 
-# rewrite with less jargon
-
 Geophyte up to 20 cm with a stem evident above ground. The leaves are trifoliolate with linear-elliptic leaflets that are covered
 in fine glandular hairs. The flowers (April to July) are lilac to white with a yellow tube. Glandular hair sometimes visible on the outside of the tube.
 
