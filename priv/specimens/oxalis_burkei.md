@@ -12,12 +12,6 @@ vegetation_type_ids: ["de_doorns_renosterveld_karoo"]
 
 ---
 
-Caulescent geophyte with wiry stem to 10 cm. Leaves terminal, trifoliolate, leaflets
-linear-conduplicate, thinly hairy beneath. Flowers rose, lilac or white with yellow tube. May–
-June. Stony flats, 300–600 m
-
-# rewrite wih less jargon
-
 Geophyte up to 10 cm with a wiry stem evident above ground. The leaves are trifoliolate with linear-conduplicate
 leaflets that are thinly haired beneath or hairless. The flowers (May to June) are rose, lilac or white with a yellow tube.
 
