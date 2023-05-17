@@ -1,44 +1,33 @@
 %{
-    name: "Western Altimontane Sandstone Fynbos",
-    has_image?: false,
-    public?: false
+name: "Western Altimontane Sandstone Fynbos",
+has_image?: true,
+public?: true
 }
+
 ---
 
-Du Toits Koof Sandstone Fynbos is a further segregate of Hawequas Sandstone Fynbos, but is probably slightly drier than the latter.  Parts of it have been burnt too often, and Hakea sericea and pine are a serious problem in places.  The unit spans a major altitudinal gradient from about 300 to 1600m, and could clearly be further subdivided. Western Altimontane Fynbos occurs above 1600m, in areas with regular winter snowfalls. All the usual seepage areas, Afrotemperate Forest patches, cliffs, rocky areas and shalebands are found within this unit, hugely increasing the available habitat diversity. Specials include various restioids, Spatalla salsoloides, Serruria zeyheri and Oreoleysera montana.
+Western Altimontane Sandstone Fynbos is a high-altitude fynbos vegetation type occuring above 1600m. It includes various sections of the Hex River Mountains such as the Mosterthoek Twins (2 030 m), Waaihoek Peak (1 948 m), Mount Superior (1 913 m), Fonteintjiesberg (1 989 m), Sentinel Peak (1 939 m), Buffelshoek Peak (2 059 m), Milner Peak (1 995 m), Groothoek Peak (2 099 m), Rooiberg (2 209 m), Sonkliprug (2 100 m) and Matroosberg (2 249 m). Other areas
+outside the Hex River Valley include the Cedarberg, Skurweberge, Groot Winterhoek, Du Toitsberge and Langeberg.
 
-M & R
+The terrain is rugged and rocky, but less steep towards the top.
 
-Distribution Western Cape Province: Summits and top ridges
-from around 1 800 m upwards including patches on Jurie se
-Berg (Sneeukoppe; 1 930 m), Shadow Peak (1 898 m) and
-Sneeuberg (2 026 m) in the Cederberg, Sneeukop (2 071 m) in
-Skurweberge, Groot Winterhoek Peak (2 078 m), Eureka Peak
-(1 987 m), Medina Peak (1 905 m) and Sneeugat Peak (1 884
-m), Groot Winterhoek, as well as a series of larger patches
-along the Hex River Mountains on Mosterthoek Twins (2 030
-m), Waaihoek Peak (1 948 m), Mount Superior (1 913 m),
-Fonteintjiesberg (1 989 m), Sentinel Peak (1 939 m), Buffelshoek
-Peak (2 059 m), Milner Peak (1 995 m), Groothoek Peak (2 099
-m), Rooiberg (2 209 m), Sonkliprug (2 100 m) and Matroosberg
-(2 249 m). This unit includes Keeromsberg (2 071 m) situated
-in the extreme west of the Langeberg as well as Du Toits Peak
-(1 994 m) in the Du Toitsberge.
-Vegetation & Landscape Features High-altitude sum-
-mit peaks, generally fragmented and localised, but relatively
-extensive in the Hex River Mountains. Vegetation in these high-
-altitude positions is low, open to medium dense restioid fyn-
-bos, with ericaceous and asteraceous fynbos occurring locally.
-Proteoid fynbos generally absent.
-Geology & Soils Skeletal and rocky acidic lithosol soils derived
-from Ordovician sandstones of the Table Mountain Group (Cape
-Supergroup). Land types mainly Ic and Ib.
-Climate MAP generally 450–3 140 mm (mean: 1 385 mm),
-peaking May to August. Mean daily maximum and minimum
-temperatures 22.9°C and 0.1°C for February and July.
+The vegetation is low, open to medium dense restioid fynbos, with ericaceous and asteraceous fynbos occurring locally. Proteoid fynbos is generally absent, but low-growing proteoids may be present.
 
+Snow is a regular winter occurance. High rainfall in winter.
 
+### Important Taxa
+
+_Spatalla salsoloides_, _Serruria zeyheri_ and _Oreoleysera montana_. It is unknown whether these occur in the Hex River Valley.
+
+### Endemic Taxa
+
+_Cyclopia glabra_.
+
+### Conservation
+
+Not threatened by agricultural activities.
 
 ### References
 
-* Helme, N. A. 2007. Botanical report: Fine scale vegetation mapping in the Upper Breede River Valley. Report for CapeNature, as part of the C.A.P.E. programme.
+- Mucina, L., Rutherford, M.C. 2006. The vegetation of South Africa, Lesotho and Swaziland. Strelitzia 19.
+- Helme, N. A. 2007. Botanical report: Fine scale vegetation mapping in the Upper Breede River Valley. Report for CapeNature, as part of the C.A.P.E. programme.
