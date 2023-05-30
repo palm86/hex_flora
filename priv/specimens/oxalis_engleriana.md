@@ -1,25 +1,24 @@
 %{
-name: "Oxalis fibrosa",
+name: "Oxalis engleriana",
 rank: :species,
 common_names: ["suring"],
 taxonomy: %{
 family: "Oxalidaceae",
 genus: "Oxalis",
-species: "fibrosa"
+species: "engleriana"
 },
 vegetation_type_ids: ["de_doorns_sandstone_fynbos"]
 }
 
 ---
 
-Stemless geophyte. The leaves are trifoliate with wedge-shaped to obovate leaflets. The flowers (April to June) are lilac or mauve with a yellow corolla.
-The leaves and corrola are covered in glandular hair.
+Geophyte up to 15cm with a wiry stem evident above ground. Leaves have 5 to 8 linear-oblong leaflets that are ciliate and hairy beneath. The flowers (May to June) are rose with a yellow tube.
 
 <!-- read more -->
 
 ### Distribution in the Hex
 
-Between 400 and 600m in the De Doorns Sandstone Fynbos vegetation type.
+Shady southerns slopes of De Doorns Sandstone Fynbos.
 
 ### References
 
