@@ -18,7 +18,7 @@ Geophyte up to 15cm with a wiry stem evident above ground. Leaves have 5 to 8 li
 
 ### Distribution in the Hex
 
-Shady southerns slopes of De Doorns Sandstone Fynbos.
+Shady southern slopes of De Doorns Sandstone Fynbos.
 
 ### References
 
